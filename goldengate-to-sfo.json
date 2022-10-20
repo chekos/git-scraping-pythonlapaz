@@ -36,15 +36,15 @@
         {
           "distance": {
             "text": "18.3 mi",
-            "value": 29413
+            "value": 29412
           },
           "duration": {
             "text": "30 mins",
             "value": 1807
           },
           "duration_in_traffic": {
-            "text": "30 mins",
-            "value": 1817
+            "text": "32 mins",
+            "value": 1941
           },
           "end_address": "San Francisco International Airport (SFO), San Francisco, CA 94128, USA",
           "end_location": {
@@ -178,7 +178,7 @@
             {
               "distance": {
                 "text": "4.2 mi",
-                "value": 6769
+                "value": 6768
               },
               "duration": {
                 "text": "4 mins",
@@ -191,7 +191,7 @@
               "html_instructions": "Keep <b>left</b> at the fork to stay on <b>I-280 S</b>",
               "maneuver": "fork-left",
               "polyline": {
-                "points": "go~dFvgojVL?N@R?xAD|@@Z@`@?T?|@Eb@CTEh@GNC^In@Ov@U@?^Of@QPIr@_@TMd@_@|@o@d@[ROf@_@VQn@g@NM`BoANKpAeAPMZWb@[LKd@[LKNKj@_@TOp@c@~@m@NI@?FEJGPKJEpAs@j@YZOHCHEXOLERKNGZKJEXKVKPGLCRGVITGTGt@Qd@Kj@KVEHCLAFANC@?ZEXE\\Ed@C^CRCF?LAVALANA^Ab@?n@Ar@?j@?|@Af@?J?b@?`A?D?z@?ZAp@?jA?Z?bBAT?~@?RAP?D?NALAB?LAHANAJAJALATCf@Gj@MXIDAXGHC`@OxAi@`@SZOb@Yd@]\\UPQRQPQ\\[h@s@RY\\a@h@u@rAiB|BaDNU~@qAlAcBnAeBz@mApC{DV]@A\\e@\\g@h@s@n@}@@AV]@AbBaCPWDEXc@dB_C@EFI~@qAr@_ABE@AT]fA{AX_@Va@HKh@q@LOHITUHIDELMNODCHIPQh@a@h@_@f@[h@YXQb@SZQRIFEPIzAw@TKZQTOBAFCVO`@S~@e@DC`@UXMr@_@~BkAXOfAi@|@e@HEHENIJGXQz@i@JILKNMTWXWDEp@u@@ABEPSJKPULSLOPWNWVc@FKN[Ra@HSJWHQHQN]N]P_@f@iAHOJWDIDMBEDKDKN[FMFOL[P]NWFMHOLSNYJQDGLSZe@Za@NUTYLMRURUNQRSHKJIRSRSPOJIBCDELKXYTQNMPQFGRQPQTQZ[JKPO`@_@fAaANO@?ZYPOPORSd@c@HGPOTSTS@AROVSTOTQTOTMVQLGZM`@S@?TK^QXMXOVKTIXKNGLERI`@MNGXKTKb@OLETKVITIHELEXKXKFCLEVKRIDCPIVKRMXMRKVOXQTOl@_@DENITQNMXULIDGROLKDETSPSRQJKHITWRURWNQJKDIFIPUHI@CRWNWPWRYNSRWLUFIvBwC"
+                "points": "go~dFvgojVL?N@R?xAD|@@R?T?X?T?ZAZCb@Cd@GXE^GNCn@Ov@U@?^Of@QPK\\Ol@]b@YNKPM`Au@`@YvAiAZUd@_@x@m@NKpAeAPMZWb@[LKd@[LKNKj@_@TOp@c@~@m@NI@?FEJGPKJEpAs@j@YZOHCHEXOLERKNGZKJEXKVKPGLCRGVITGTGt@Qd@Kj@KVEHCLAFANC@?ZEXE\\Ed@C^CRCF?LAVALANA^Ab@?n@Ar@?j@?|@Af@?J?b@?`A?D?z@?ZAp@?jA?Z?bBAT?~@?RAP?D?NALAB?LAHANAJAJALATCf@Gj@MXIDAXGHC`@OxAi@`@SZOb@Yd@]\\UPQRQPQ\\[h@s@RY\\a@h@u@rAiB|BaDNU~@qAlAcBnAeBz@mApC{DV]@A\\e@\\g@h@s@n@}@@AV]@AbBaCPWDEXc@dB_C@EFI~@qAr@_ABE@AT]fA{AX_@Va@HKh@q@LOHITUHIDELMNODCHIPQh@a@h@_@f@[h@YXQb@SZQRIFEPIzAw@TKZQTOBAFCVO`@S~@e@DC`@UXMr@_@~BkAXOfAi@|@e@HEHENIJGXQz@i@JILKNMTWXWDEp@u@@ABEPSJKPULSLOPWNWVc@FKN[Ra@HSJWHQHQN]N]P_@f@iAHOJWDIDMBEDKDKN[FMFOL[P]NWFMHOLSNYJQDGLSZe@Za@NUTYLMRURUNQRSHKJIRSRSPOJIBCDELKXYTQNMPQFGRQPQTQZ[JKPO`@_@fAaANO@?ZYPOPORSd@c@HGPOTSTS@AROVSTOTQTOTMVQLGZM`@S@?TK^QXMXOVKTIXKNGLERI`@MNGXKTKb@OLETKVITIHELEXKXKFCLEVKRIDCPIVKRMXMRKVOXQTOl@_@DENITQNMXULIDGROLKDETSPSRQJKHITWRURWNQJKDIFIPUHI@CRWNWPWRYNSRWLUFIvBwC"
               },
               "start_location": {
                 "lat": 37.6806827,
@@ -276,7 +276,7 @@
         }
       ],
       "overview_polyline": {
-        "points": "}c|eFpaqjVn@{@l@k@l@c@nAo@rA]bBQlDUhCOnNy@lMu@rc@kCnX}AnSiA`FYn@Gf@IbAW|@a@f@]l@e@^]r@o@hBoBtCmDfAeAlE}EbB{BlBcDp@mAFSH?FCNSn@yAbAgCJ]R[f@i@TO\\O\\KPAh@E`C?~HBhQHbOFzJH`AD~@JhAXz@Xz@`@v@d@|B|AzCtBnBrAfB~@hAb@`A\\lAVfBPfBFbBC|Tq@bRk@|a@oAh@CLBZLTPVd@FTDd@MjEWjEAx@BdAVfFV`MBVLh@Tb@V\\f@^f@Pl@H\\ANEpB}@tDcBl@Uj@OdAO~BKhAKfAU`Aa@f@[|@k@p@[jAUvCKnM_@rESr@Ev@EnG[`EOpK[nPe@h`@iA|b@oAjCI|FMhVq@|CCvJUz@IdEOnQi@tBEzADpGL~AHvCD|@@zGNhP^rGLpC?`@Eb@MPI^W~AuA`GuF|CwCxAOtA]hCs@hEgAjCm@|AWrBSjCOhCGzHAxD@xAJdBJ~Gb@bG\\vDRtCDnAA|LOzBEXXpBMdCYdCOj@CrBSjAWdG_BpAW`@GdBOlDE~HClICvB@bBLhAPnEbAlDt@bC\\pAH`BDxCFlUb@pHN|@@rAEx@Ix@KhCo@fAa@dAi@xB}AxB}AtIyGpA_ArDaC`EwBvCoA~CcA|Cq@v@MfAOvBQz@EbCE|HAjLCdBIt@G|@KdAWjA]zB}@~@i@hBwAn@m@|@mAxGcJlFqH|JiNxKmOxB{C`@m@v@aAn@o@l@k@z@s@pA{@bCqAhCqAjAo@bEuBvJaFlBmAr@q@rAuAr@{@|@sAbAmBbCuF`AyBpAmCn@gAtAqBjAsAx@{@vBqBvCkC|IaIvAeApAw@`EiBpI}ClCeAxAs@tBqAhBwAxBqBxBmCxB{CT_@vBwC^E@AV]tA_BdAkA`CiCfAgA^g@b@y@Rm@R}@Hy@Bk@?}@Em@UuAYy@_@s@oC}Ds@iAWc@G_@qAuCq@iBi@uA_AqCeDwJ_HqQsAoDi@}AoB}Fc@uA_@}AY{AQsAQmBGaAGaBCuBDuBHqBRyCLuBF_AJKDOJoAN_CNcD?oBI}BOgCWiF@kAJyAPaAZiAj@mAz@kA`@a@n@c@\\Qr@Wj@KlBQxAMhJo@zBShCYfAOb@INFB?pASzAY`B]xGiB\\A^Mz@WjEiAdIsB~A]lCe@~@Q"
+        "points": "}c|eFpaqjVn@{@l@k@l@c@nAo@rA]bBQlDUhCOnNy@lMu@rc@kCnX}AnSiA`FYn@Gf@IbAW|@a@f@]l@e@^]r@o@hBoBtCmDfAeAlE}EbB{BlBcDp@mAFSH?FCNSn@yAbAgCJ]R[f@i@TO\\O\\KPAh@E`C?~HBhQHbOFzJH`AD~@JhAXz@Xz@`@v@d@|B|AzCtBnBrAfB~@hAb@`A\\lAVfBPfBFbBC|Tq@bRk@|a@oAh@CLBZLTPVd@FTDd@MjEWjEAx@BdAVfFV`MBVLh@Tb@V\\f@^f@Pl@H\\ANEpB}@tDcBl@Uj@OdAO~BKhAKfAU`Aa@f@[|@k@p@[jAUvCKnM_@rESr@Ev@EnG[`EOpK[nPe@h`@iA|b@oAjCI|FMhVq@|CCvJUz@IdEOnQi@tBEzADpGL~AHvCD|@@zGNhP^rGLpC?`@Eb@MPI^W~AuA`GuF|CwCxAOtA]hCs@hEgAjCm@|AWrBSjCOhCGzHAxD@xAJdBJ~Gb@bG\\vDRtCDnAA|LOzBEXXpBMdCYdCOj@CrBSjAWdG_BpAW`@GdBOlDE~HClICvB@bBLhAPnEbAlDt@bC\\pAH`BDxCFlUb@pHNxA?v@EhAKxBa@x@UfAa@n@[pAw@dCiBbJeHdBoAbC_BtEkCfD}AdDgAfCm@zAWt@K|BS`AG`BEfJCpJCjBAn@Ep@Gb@ErAUbAWzBy@|@c@hAw@n@g@d@c@\\[h@s@p@{@|B_DzGmJ|KqOdMeQbBaCdB_C`BaBZ[rAaAnC{AhAk@bDeBlDiB`KeFpBmAh@c@fBkBb@g@~@qA~@cBnBmExAgDvAyCr@oAjAcBfAsA`AgAhBaBtCiCvJ{IbAu@xAaAvDeBzIcDhCaAvAq@zA}@bAo@lA_AtBoBpBaCvByC`DoE^EFIpA}A`AiAfCmCvB_C^q@Xs@Ps@Hk@F_AAuAGw@Ow@Qo@_@w@gCuDu@iAa@o@Mi@kBiEq@gBq@qB{DkLwG_QuAqDo@mBkBoFe@yA_@yA[{AUaB[_DIoBCuBBeBH_Cj@cJLQJ}@NuBJ_BFiB?cBEkBi@iJA}AHyAN_AXkA\\_Av@oAf@k@h@e@d@Wl@Yd@M|@OnCS`Ik@lDWvBUjCa@PFx@MzAW~A[~GkBTG\\AvAc@~DgArGaBtEaAxCi@"
       },
       "summary": "I-280 S",
       "warnings": [],
