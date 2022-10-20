@@ -24,10 +24,10 @@
       "bounds": {
         "northeast": {
           "lat": 37.8324731,
-          "lng": -121.9127971
+          "lng": -121.9127624
         },
         "southwest": {
-          "lat": 37.3162019,
+          "lat": 37.3161983,
           "lng": -122.4810476
         }
       },
@@ -35,16 +35,16 @@
       "legs": [
         {
           "distance": {
-            "text": "58.8 mi",
-            "value": 94649
+            "text": "58.9 mi",
+            "value": 94863
           },
           "duration": {
-            "text": "1 hour 8 mins",
-            "value": 4070
+            "text": "1 hour 10 mins",
+            "value": 4200
           },
           "duration_in_traffic": {
-            "text": "1 hour 16 mins",
-            "value": 4583
+            "text": "1 hour 20 mins",
+            "value": 4777
           },
           "end_address": "San José International Airport, 226 Airport Pkwy Suite 300, San Jose, CA 95110, USA",
           "end_location": {
@@ -106,24 +106,72 @@
             },
             {
               "distance": {
-                "text": "7.0 mi",
-                "value": 11193
+                "text": "5.1 mi",
+                "value": 8176
               },
               "duration": {
-                "text": "18 mins",
-                "value": 1105
+                "text": "14 mins",
+                "value": 825
+              },
+              "end_location": {
+                "lat": 37.734723,
+                "lng": -122.4752275
+              },
+              "html_instructions": "Continue onto <b>CA-1</b>/<wbr/><b>Veterans Blvd</b><div style=\"font-size:0.9em\">Continue to follow CA-1</div><div style=\"font-size:0.9em\">Pass by Chase Bank (on the right in 3.7&nbsp;mi)</div>",
+              "polyline": {
+                "points": "ydveFnynjVz@Ar@?R?`@?`@?d@@hA?X?V@dA?~@?`@?J@p@?jA@nB@bC@hB@xB@nC@b@@dA?b@?hA@`@?hA@`@?d@@bA?nB@P@T?L@V?J@N@L@N@PBD@VBD@NDXFXHHBPDVJFBf@TRJ\\RXPh@^\\THFj@^FFVPFB\\V^TPL^VBBDD@?^VfAt@HDTLd@V`@RLFD@\\NVHPHFBHD\\HNB\\HPDLBZFXBPB^@XBL@f@@V?V?P?b@ATAt@CpBIt@Cb@ApDKpAEVA~CIhBGhBEZAN?dAEJAdBGjDKb@A|GUp@CfACvEOb@Ap@CrJY^CH?H@B@D@FBFBDBDBBBDBDDDFDHDJDF@D@F@@@D@F@H@L?D?F?B?FAP?@CfACt@Cd@APE~@CXCTAPAZAJAN?NAF?P?N?T@R?H@P@VFx@B^?BBV@R@h@@Z@P?LF~B@j@@f@?Z?P@N@R?\\Br@?J?D?B@J?F?B@@?D@J@HBJ@@DPJRHNJNJLFFFFJFJFHFHBF@JBHBD?\\DT?FAFAFCz@_@LGd@S@AJGRKTINI\\On@WVMHEBALG@?XKFCNEPE@?VEXEPC@?^Cf@CVA^APATAPCNCLAZIBAXGNGJETKNGFC@ARMHGFENIROPKRKLGBAJELEPCVGRC~AERANARA|@CdFO^AT?TATAL?z@EV?hAEr@E|@GH?LAJANARAF?HAPA@?lG[b@C|CKvEMv@ClAEr@Cj@AlCI`IUr@CpAE`HSz@CtAE`FOtCIrBGv@Cr@CpAEB?jBGfAEb@AdACxHUf@CRA\\A\\AtEMt@AVATAd@Cj@Ab@AnCEV?JAhAE~ACbFOp@CN?bAEfACdDKp@CL@H?rACp@AdDGfAEv@CpACLA"
+              },
+              "start_location": {
+                "lat": 37.80189,
+                "lng": -122.4695215
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 mi",
+                "value": 272
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 85
+              },
+              "end_location": {
+                "lat": 37.7346743,
+                "lng": -122.472318
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Sloat Blvd</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "_aieFd}ojVHATC?[AyAC{A?KAiAA{AGm@?I?G?GAO?K?QAy@?K"
+              },
+              "start_location": {
+                "lat": 37.734723,
+                "lng": -122.4752275
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "1.8 mi",
+                "value": 2959
+              },
+              "duration": {
+                "text": "5 mins",
+                "value": 325
               },
               "end_location": {
                 "lat": 37.7084307,
                 "lng": -122.471323
               },
-              "html_instructions": "Continue onto <b>CA-1</b>/<wbr/><b>Veterans Blvd</b><div style=\"font-size:0.9em\">Continue to follow CA-1</div><div style=\"font-size:0.9em\">Pass by Chase Bank (on the right in 3.7&nbsp;mi)</div>",
+              "html_instructions": "Turn <b>right</b> onto <b>Junipero Serra Blvd</b>",
+              "maneuver": "turn-right",
               "polyline": {
-                "points": "ydveFnynjVz@Ar@?R?`@?`@?d@@hA?X?V@dA?~@?`@?J@p@?jA@nB@bC@hB@xB@nC@b@@dA?b@?hA@`@?hA@`@?d@@bA?nB@P@T?L@V?J@N@L@N@PBD@VBD@NDXFXHHBPDVJFBf@TRJ\\RXPh@^\\THFj@^FFVPFB\\V^TPL^VBBDD@?^VfAt@HDTLd@V`@RLFD@\\NVHPHFBHD\\HNB\\HPDLBZFXBPB^@XBL@f@@V?V?P?b@ATAt@CpBIt@Cb@ApDKpAEVA~CIhBGhBEZAN?dAEJAdBGjDKb@A|GUp@CfACvEOb@Ap@CrJY^CH?H@B@D@FBFBDBDBBBDBDDDFDHDJDF@D@F@@@D@F@H@L?D?F?B?FAP?@CfACt@Cd@APE~@CXCTAPAZAJAN?NAF?P?N?T@R?H@P@VFx@B^?BBV@R@h@@Z@P?LF~B@j@@f@?Z?P@N@R?\\Br@?J?D?B@J?F?B@@?D@J@HBJ@@DPJRHNJNJLFFFFJFJFHFHBF@JBHBD?\\DT?FAFAFCz@_@LGd@S@AJGRKTINI\\On@WVMHEBALG@?XKFCNEPE@?VEXEPC@?^Cf@CVA^APATAPCNCLAZIBAXGNGJETKNGFC@ARMHGFENIROPKRKLGBAJELEPCVGRC~AERANARA|@CdFO^AT?TATAL?z@EV?hAEr@E|@GH?LAJANARAF?HAPA@?lG[b@C|CKvEMv@ClAEr@Cj@AlCI`IUr@CpAE`HSz@CtAE`FOtCIrBGv@Cr@CpAEB?jBGfAEb@AdACxHUf@CRA\\A\\AtEMt@AVATAd@Cj@Ab@AnCEV?JAhAE~ACbFOp@CN?bAEfACdDKp@CL@H?rACp@AdDGfAEv@CpACLAHATCLAHAXAn@CpBGf@AbBG|@AvCK~BIhAEZAF?~@CX?NAJ?J@R?`@@X@Z?`ABv@BV?`AB\\@B?F?B@L?^BL@H?F@D?pABb@@J?T?p@@J?lDJlBBJ?|HPX@dEJzABtAD`AB^?L?f@@j@?J?R?B?D?DAF?HAFAFARENGHEFCDCDCNKBCHELM\\]h@c@XYz@y@zAwAnAiAfBaBt@u@v@G`@GXGz@Uh@M~Ae@dD{@DAPGJA`@Kj@OZG`@IXGd@GLCNCf@Gn@IVAB?PCH?\\CpAGzAELAL?P?ZAvB?|C?H?NAD?D?~B@\\@X@~@H"
+                "points": "u`ieF~jojVJ]BI@CBEBGJO@C@A\\_@`BDfBDhBDt@@|@B`@@d@@vBFP?XAX@H?d@BnADV?ZB`@?x@BfABdA@jBDzBFbAB`BBb@@f@@V?dABtA@jBDb@@@?`@@b@@b@@xAB`BDfABlCDtADb@BN?vBFN?fABrDHxENR@dAAL?R@dA@N?V@t@Bv@G`@GXGz@Uh@M~Ae@dD{@DAPGJA`@Kj@OZG`@IXGd@GLCNCf@Gn@IVAB?PCH?\\CpAGzAELAL?P?ZAvB?|C?H?NAD?D?~B@\\@X@~@H"
               },
               "start_location": {
-                "lat": 37.80189,
-                "lng": -122.4695215
+                "lat": 37.7346743,
+                "lng": -122.472318
               },
               "travel_mode": "DRIVING"
             },
@@ -373,7 +421,7 @@
         }
       ],
       "overview_polyline": {
-        "points": "}c|eFpaqjVjCkCbDmAzKw@|\\oBrqAsHxHk@vE}B|D}DjLqM|GeKbCuFzBcCzESh[L~ZPfGdAlKzGbJtE`Kl@`h@}A|a@oArALz@rBe@vKXfJV`MfBbDtAZ~CeAnGiCvI}@xEeCdm@mChbB{Ej{@}B`Xi@pJVnh@dAhF]~BmB`GuF|CwCxAO~EqAhEgAhFeAdUm@xS|@`Tt@xPUpGMpDS~Dk@xJ_CrQYrR\\`OvCz_@z@lOAzFyAfG}DlQuM|JiFhKmCvIm@xUGdIk@|FuBfFsEhZ{a@dMeQjHcJlNkInPoIfHeG`LeUhGoI~FkFvJ{ItI}ExSuIfG_FhF{G~Us\\lH{GxLiHx\\_RdGyA|EOtIbAlC`ApOjJhJlDbLhB|KOhLsDtEcD`GeHtP{T|L}Njh@yg@|EwErHqJ`KkNzHgHpL{Gt`@qRpKaGrJiJbUyUxD_ItCcLxCmJnFkH|P_QnPaPrRmLxTsN|RmQde@ob@dZcShXuOvR}G`WkI~OmLxImF|LgFnJyFlK_KvVuXbQaWhSe`@bQc[tGkKlFuLhCaNf@kNJyO~AePlDiMlJySvEgNzC}O|F}[jCqG`EmGjJ_I~DiBnHcB`NAvZnC~Jx@zJUdL_DxJmH`RmSdJeHdKcE`HmAhXw@hKcCfJwFhGgHrGcL~Wae@bPkXfJaO`FiKbEsQ|@iOaBaj@x@yMjD}NnI_OnIsLxUuZb\\{a@xXib@ti@}z@hFkP~AsPjBkQtEuMvP_SbEcItDeOpHc]~M{m@xCeJ`FoIlPyOlYqY`YoYdIwJhCaG`CeLv@sQzAiOnG_OrCaH~BqM|AcS`BwIvAmDtHcJxJsDrVmDtIsDjQkR|QwRvU_TnHgMrD_NfEwSdC}OnAy[jB_KvFcL~FoFtJgFlGmD`IuIhDsHhD{P|DaRhHsMbOsLjHiH~DwIxDuLjFkPxD_IlPuTnM_[vRk^`IgNpCaK`AkOoCc]i@cKv@mP~GyZpAeM]oOeEu\\mC{Tg@cOMg`AAuo@?eQh@oHrBkLfDwJ`Py_@p]uy@pSmf@dKkVpG}RzAgREwZTu]~A_MxCoNpAqP[g{@Um`@u@oVPyYQ_Zq@uEkDuGmCoBmEeAsLdA}LnAyTH_MUaJeDiGqG{H_LuWo^mU_\\eKmKcQsVqG_KgAqCkBaEKeB`@aCfBqArBLt@n@D~@cBbCiClDm@z@qIpLmANo@wAI{@H}AvBcEd@yEg@sCuCgGoHmKuAs@}CC{JpGmLjJoKdKqShMiJ`IaCrGsCnIB~@^b@`@@nCmD"
+        "points": "}c|eFpaqjVjCkCbDmAzKw@|\\oBrqAsHxHk@vE}B|D}DjLqM|GeKbCuFzBcCdb@E~ZPfGdAlKzGbJtE`Kl@`h@}Apd@aAz@rBe@vKXfJV`MfBbDtAZ~CeAnGiCvI}@xEeCdm@mChbB{Erb@iAtOYl@c@GkGKqEV_Cl@u@hJRlINj]t@t^t@vS`@vHu@bSgEjR[pZzAfZHpGDhKy@tPkDvWQ~Jh@dIjBzGn@d_@t@lGH`Fc@nGaCbIcGdOmKlJoE`JuBlMi@nTGxG}@jHoDzEwF~Xi`@nLkPtI{JjMcH`Q}I~G{GzKiUtGcIdGqFjJiInJyEtI_D~HcEvFgF~E{GnV{\\vGyFnO{Iz[wPbG}@dGFzGtArDhBhNlI|IxC|KzAxKa@zLsEtG_GxDeFdS}WzKyLtg@cg@`P}RfIqKvIqH~LwG~a@gSlIoF~KyK`SgTzDcJjC}KlDgJ~F_HhPiP`QiPzTuMbReMnS_Rfe@mb@x]cUvUqMrRoGhUwHrPmMxXyMrIwFfKiKhWmYfPwVpR__@fRu\\fGyJjFgNjBmMViNP}NzBmQpDcLtKkVlEwOdDuShEsSlEcJjCkDvJuHlFqBvGgAxO\\nYhCnJn@dKm@zKyDfL}JtOyPbL{HpIuC`IgAtWy@hKuCvJcHzF}HbHaMjWad@hPmXfIuMpFiMhDkRd@aN_Bqi@jAcNtEwO~Sk[rUgZz[ya@b]_h@je@wu@nE_Q~AwRzBwO`FkLfPeRzDsItD{OpHa]vM_m@nDwJrEcHnQsPnYwYlY{YnGoIxCaIfB_Kr@mSbCkOrI}Q~BuJ~AuQ`AwJ`EgLrH{HrEoBbHiAzSgDfIkE`QsRpQaRbVyT`H{M|CiMnEuTrBePpAuZlCeLnFgJnGeFzJiFjGwDzHwJtCsHnD{R~DeP`IgMdO_LvGwH|JaYtEoNjE_IhHyIpFuIzMs[|T_a@|FaL|BoKf@gOsCo[_@}MvAcPvG{Yz@kM}@_Q{DsZcCcTa@kTI_dAGql@ZwOt@kGfCsKdDqIpO{^h_@a}@fS_f@dJkTzFqS|@gQEgb@`@gVnBuLxCoOt@sP[kz@a@ob@i@uUPcXYeYyAmGkD{EmCyAgFo@yLnAoRnAkO@oLg@kIwDqGsH_IeLmW_^oUa\\aKaKeRsXkIoOk@iFhAcCbBc@nBt@h@n@gA~A{DnFsAjBaF`HuCnBy@aCG_@`@qBfCeGG{Dg@gBcHgM{DoE_Bc@mCReObKoI|HoJrIyUxNkGvGkF~OCtBdAB~BaD"
       },
       "summary": "I-280 S",
       "warnings": [],
