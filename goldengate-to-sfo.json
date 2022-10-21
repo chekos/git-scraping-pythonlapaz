@@ -35,16 +35,16 @@
       "legs": [
         {
           "distance": {
-            "text": "18.3 mi",
-            "value": 29412
+            "text": "18.4 mi",
+            "value": 29626
           },
           "duration": {
-            "text": "30 mins",
-            "value": 1807
+            "text": "32 mins",
+            "value": 1937
           },
           "duration_in_traffic": {
-            "text": "32 mins",
-            "value": 1948
+            "text": "33 mins",
+            "value": 1962
           },
           "end_address": "San Francisco International Airport (SFO), San Francisco, CA 94128, USA",
           "end_location": {
@@ -106,24 +106,72 @@
             },
             {
               "distance": {
-                "text": "7.0 mi",
-                "value": 11193
+                "text": "5.1 mi",
+                "value": 8176
               },
               "duration": {
-                "text": "18 mins",
-                "value": 1105
+                "text": "14 mins",
+                "value": 825
+              },
+              "end_location": {
+                "lat": 37.734723,
+                "lng": -122.4752275
+              },
+              "html_instructions": "Continue onto <b>CA-1</b>/<wbr/><b>Veterans Blvd</b><div style=\"font-size:0.9em\">Continue to follow CA-1</div><div style=\"font-size:0.9em\">Pass by Chase Bank (on the right in 3.7&nbsp;mi)</div>",
+              "polyline": {
+                "points": "ydveFnynjVz@Ar@?R?`@?`@?d@@hA?X?V@dA?~@?`@?J@p@?jA@nB@bC@hB@xB@nC@b@@dA?b@?hA@`@?hA@`@?d@@bA?nB@P@T?L@V?J@N@L@N@PBD@VBD@NDXFXHHBPDVJFBf@TRJ\\RXPh@^\\THFj@^FFVPFB\\V^TPL^VBBDD@?^VfAt@HDTLd@V`@RLFD@\\NVHPHFBHD\\HNB\\HPDLBZFXBPB^@XBL@f@@V?V?P?b@ATAt@CpBIt@Cb@ApDKpAEVA~CIhBGhBEZAN?dAEJAdBGjDKb@A|GUp@CfACvEOb@Ap@CrJY^CH?H@B@D@FBFBDBDBBBDBDDDFDHDJDF@D@F@@@D@F@H@L?D?F?B?FAP?@CfACt@Cd@APE~@CXCTAPAZAJAN?NAF?P?N?T@R?H@P@VFx@B^?BBV@R@h@@Z@P?LF~B@j@@f@?Z?P@N@R?\\Br@?J?D?B@J?F?B@@?D@J@HBJ@@DPJRHNJNJLFFFFJFJFHFHBF@JBHBD?\\DT?FAFAFCz@_@LGd@S@AJGRKTINI\\On@WVMHEBALG@?XKFCNEPE@?VEXEPC@?^Cf@CVA^APATAPCNCLAZIBAXGNGJETKNGFC@ARMHGFENIROPKRKLGBAJELEPCVGRC~AERANARA|@CdFO^AT?TATAL?z@EV?hAEr@E|@GH?LAJANARAF?HAPA@?lG[b@C|CKvEMv@ClAEr@Cj@AlCI`IUr@CpAE`HSz@CtAE`FOtCIrBGv@Cr@CpAEB?jBGfAEb@AdACxHUf@CRA\\A\\AtEMt@AVATAd@Cj@Ab@AnCEV?JAhAE~ACbFOp@CN?bAEfACdDKp@CL@H?rACp@AdDGfAEv@CpACLA"
+              },
+              "start_location": {
+                "lat": 37.80189,
+                "lng": -122.4695215
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 mi",
+                "value": 272
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 85
+              },
+              "end_location": {
+                "lat": 37.7346743,
+                "lng": -122.472318
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Sloat Blvd</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "_aieFd}ojVHATC?[AyAC{A?KAiAA{AGm@?I?G?GAO?K?QAy@?K"
+              },
+              "start_location": {
+                "lat": 37.734723,
+                "lng": -122.4752275
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "1.8 mi",
+                "value": 2959
+              },
+              "duration": {
+                "text": "5 mins",
+                "value": 325
               },
               "end_location": {
                 "lat": 37.7084307,
                 "lng": -122.471323
               },
-              "html_instructions": "Continue onto <b>CA-1</b>/<wbr/><b>Veterans Blvd</b><div style=\"font-size:0.9em\">Continue to follow CA-1</div><div style=\"font-size:0.9em\">Pass by Chase Bank (on the right in 3.7&nbsp;mi)</div>",
+              "html_instructions": "Turn <b>right</b> onto <b>Junipero Serra Blvd</b>",
+              "maneuver": "turn-right",
               "polyline": {
-                "points": "ydveFnynjVz@Ar@?R?`@?`@?d@@hA?X?V@dA?~@?`@?J@p@?jA@nB@bC@hB@xB@nC@b@@dA?b@?hA@`@?hA@`@?d@@bA?nB@P@T?L@V?J@N@L@N@PBD@VBD@NDXFXHHBPDVJFBf@TRJ\\RXPh@^\\THFj@^FFVPFB\\V^TPL^VBBDD@?^VfAt@HDTLd@V`@RLFD@\\NVHPHFBHD\\HNB\\HPDLBZFXBPB^@XBL@f@@V?V?P?b@ATAt@CpBIt@Cb@ApDKpAEVA~CIhBGhBEZAN?dAEJAdBGjDKb@A|GUp@CfACvEOb@Ap@CrJY^CH?H@B@D@FBFBDBDBBBDBDDDFDHDJDF@D@F@@@D@F@H@L?D?F?B?FAP?@CfACt@Cd@APE~@CXCTAPAZAJAN?NAF?P?N?T@R?H@P@VFx@B^?BBV@R@h@@Z@P?LF~B@j@@f@?Z?P@N@R?\\Br@?J?D?B@J?F?B@@?D@J@HBJ@@DPJRHNJNJLFFFFJFJFHFHBF@JBHBD?\\DT?FAFAFCz@_@LGd@S@AJGRKTINI\\On@WVMHEBALG@?XKFCNEPE@?VEXEPC@?^Cf@CVA^APATAPCNCLAZIBAXGNGJETKNGFC@ARMHGFENIROPKRKLGBAJELEPCVGRC~AERANARA|@CdFO^AT?TATAL?z@EV?hAEr@E|@GH?LAJANARAF?HAPA@?lG[b@C|CKvEMv@ClAEr@Cj@AlCI`IUr@CpAE`HSz@CtAE`FOtCIrBGv@Cr@CpAEB?jBGfAEb@AdACxHUf@CRA\\A\\AtEMt@AVATAd@Cj@Ab@AnCEV?JAhAE~ACbFOp@CN?bAEfACdDKp@CL@H?rACp@AdDGfAEv@CpACLAHATCLAHAXAn@CpBGf@AbBG|@AvCK~BIhAEZAF?~@CX?NAJ?J@R?`@@X@Z?`ABv@BV?`AB\\@B?F?B@L?^BL@H?F@D?pABb@@J?T?p@@J?lDJlBBJ?|HPX@dEJzABtAD`AB^?L?f@@j@?J?R?B?D?DAF?HAFAFARENGHEFCDCDCNKBCHELM\\]h@c@XYz@y@zAwAnAiAfBaBt@u@v@G`@GXGz@Uh@M~Ae@dD{@DAPGJA`@Kj@OZG`@IXGd@GLCNCf@Gn@IVAB?PCH?\\CpAGzAELAL?P?ZAvB?|C?H?NAD?D?~B@\\@X@~@H"
+                "points": "u`ieF~jojVJ]BI@CBEBGJO@C@A\\_@`BDfBDhBDt@@|@B`@@d@@vBFP?XAX@H?d@BnADV?ZB`@?x@BfABdA@jBDzBFbAB`BBb@@f@@V?dABtA@jBDb@@@?`@@b@@b@@xAB`BDfABlCDtADb@BN?vBFN?fABrDHxENR@dAAL?R@dA@N?V@t@Bv@G`@GXGz@Uh@M~Ae@dD{@DAPGJA`@Kj@OZG`@IXGd@GLCNCf@Gn@IVAB?PCH?\\CpAGzAELAL?P?ZAvB?|C?H?NAD?D?~B@\\@X@~@H"
               },
               "start_location": {
-                "lat": 37.80189,
-                "lng": -122.4695215
+                "lat": 37.7346743,
+                "lng": -122.472318
               },
               "travel_mode": "DRIVING"
             },
@@ -276,7 +324,7 @@
         }
       ],
       "overview_polyline": {
-        "points": "}c|eFpaqjVn@{@l@k@l@c@nAo@rA]bBQlDUhCOnNy@lMu@rc@kCnX}AnSiA`FYn@Gf@IbAW|@a@f@]l@e@^]r@o@hBoBtCmDfAeAlE}EbB{BlBcDp@mAFSH?FCNSn@yAbAgCJ]R[f@i@TO\\O\\KPAh@E`C?~HBhQHbOFzJH`AD~@JhAXz@Xz@`@v@d@|B|AzCtBnBrAfB~@hAb@`A\\lAVfBPfBFbBC|Tq@bRk@|a@oAh@CLBZLTPVd@FTDd@MjEWjEAx@BdAVfFV`MBVLh@Tb@V\\f@^f@Pl@H\\ANEpB}@tDcBl@Uj@OdAO~BKhAKfAU`Aa@f@[|@k@p@[jAUvCKnM_@rESr@Ev@EnG[`EOpK[nPe@h`@iA|b@oAjCI|FMhVq@|CCvJUz@IdEOnQi@tBEzADpGL~AHvCD|@@zGNhP^rGLpC?`@Eb@MPI^W~AuA`GuF|CwCxAOtA]hCs@hEgAjCm@|AWrBSjCOhCGzHAxD@xAJdBJ~Gb@bG\\vDRtCDnAA|LOzBEXXpBMdCYdCOj@CrBSjAWdG_BpAW`@GdBOlDE~HClICvB@bBLhAPnEbAlDt@bC\\pAH`BDxCFlUb@pHNxA?v@EhAKxBa@x@UfAa@n@[pAw@dCiBbJeHdBoAbC_BtEkCfD}AdDgAfCm@zAWt@K|BS`AG`BEfJCpJCjBAn@Ep@Gb@ErAUbAWzBy@|@c@hAw@n@g@d@c@\\[h@s@p@{@|B_DzGmJ|KqOdMeQbBaCdB_C`BaBZ[rAaAnC{AhAk@bDeBlDiB`KeFpBmAh@c@fBkBb@g@~@qA~@cBnBmExAgDvAyCr@oAjAcBfAsA`AgAhBaBtCiCvJ{IbAu@xAaAvDeBzIcDhCaAvAq@zA}@bAo@lA_AtBoBpBaCvByC`DoE^EFIpA}A`AiAfCmCvB_C^q@Xs@Ps@Hk@F_AAuAGw@Ow@Qo@_@w@gCuDu@iAa@o@Mi@kBiEq@gBq@qB{DkLwG_QuAqDo@mBkBoFe@yA_@yA[{AUaB[_DIoBCuBBeBH_Cj@cJLQJ}@NuBJ_BFiB?cBEkBi@iJA}AHyAN_AXkA\\_Av@oAf@k@h@e@d@Wl@Yd@M|@OnCS`Ik@lDWvBUjCa@PFx@MzAW~A[~GkBTG\\AvAc@~DgArGaBtEaAxCi@"
+        "points": "}c|eFpaqjVn@{@l@k@l@c@nAo@rA]bBQlDUhCOnNy@lMu@rc@kCnX}AnSiA`FYn@Gf@IbAW|@a@f@]l@e@^]r@o@hBoBtCmDfAeAlE}EbB{BlBcDp@mAFSH?FCNSn@yAbAgCJ]R[f@i@TO\\O\\KPAh@E`C?~HBhQHbOFzJH`AD~@JhAXz@Xz@`@v@d@|B|AzCtBnBrAfB~@hAb@`A\\lAVfBPfBFbBC|Tq@bRk@|a@oAh@CLBZLTPVd@FTDd@MjEWjEAx@BdAVfFV`MBVLh@Tb@V\\f@^f@Pl@H\\ANEpB}@tDcBl@Uj@OdAO~BKhAKfAU`Aa@f@[|@k@p@[jAUvCKnM_@rESr@Ev@EnG[`EOpK[nPe@h`@iA|b@oAjCI|FMhVq@|CCvJUVCTC?[EuDAuAA{AGm@?QAu@AeANg@HQl@u@hJR|FNnA?hDLhFHvP\\jLRhQ`@zFLlFPlD@f@@t@Bv@Gz@OdBc@|GkBtBe@nB]~BW|@GhEObJCdC@v@BjBNbH`@bHb@jCPpDFhA?~@C~KKdCE@?VXpBM|C]~BKjBOlAUrEkAnCq@\\GdBOl@EnCApDCfLE`D@bBHxB\\dIjB`C^jAHlAD~CH|HNfPZjCF`C@pBInBYfBe@`@Ox@]jAm@fCiBzDyC`HiF~AgAbC{AtEaCvCmAjA_@xBk@zCi@xBUhAItAGrDAtHCxJCzAKvAOdBa@j@SzB}@~@i@bAs@tAqAdCeDlSgYpDaFnLkPbCiDvAaBl@m@jAaApA{@bAk@zAu@~C_Bx@e@vImEhFoCdBmAt@u@hAqAx@eA`A_Bx@iBbCqFz@oBv@_Bf@}@z@sAnA_BjAqA|@}@tBiBnCgCnE_EzCiCvA_Ad@Y|@a@pAk@p@[n@UrAe@bBo@|CiAdCgA~A{@xA_AtBcB`A_A~@cAzAmBbCmDvBwC^E@Ax@cA~CmDdCkCp@u@Zg@^y@Rs@PyABk@?}@QaBU}@]{@q@cA_CiDy@sAG_@qAuCq@iBcAoCeA_DoCeIaIuS{AiEsBeGi@oBYwAUsAUuBQcDEcB@eBF}BNeCVaEF_AJKDONsBNsBHiB@cBCmBIiB_@eGCaBDwALcAZsAX{@r@oAd@m@`@a@n@c@\\Qr@Wj@KzCWpBOrIo@fCUtC_@b@INFB?hCa@hB_@rBk@`D{@^K\\A^Mz@WnCs@bFqA|FuAxDq@RE"
       },
       "summary": "I-280 S",
       "warnings": [],
