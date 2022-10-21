@@ -40,11 +40,11 @@
           },
           "duration": {
             "text": "43 mins",
-            "value": 2595
+            "value": 2596
           },
           "duration_in_traffic": {
-            "text": "47 mins",
-            "value": 2798
+            "text": "46 mins",
+            "value": 2759
           },
           "end_address": "Golden Gate Bridge, Golden Gate Bridge, San Francisco, CA, USA",
           "end_location": {
@@ -370,20 +370,20 @@
             },
             {
               "distance": {
-                "text": "0.1 mi",
-                "value": 189
+                "text": "0.2 mi",
+                "value": 295
               },
               "duration": {
                 "text": "1 min",
-                "value": 50
+                "value": 80
               },
               "end_location": {
-                "lat": 37.7933476,
-                "lng": -122.398801
+                "lat": 37.7942845,
+                "lng": -122.3989855
               },
               "html_instructions": "Continue onto <b>Front St</b>",
               "polyline": {
-                "points": "geteFn|`jVKPCDQJIBIBM@iAJeALqBV"
+                "points": "geteFn|`jVKPCDQJIBIBM@iAJeALqBVC@C?A?QBYDI@C?_@Dc@FO@a@F"
               },
               "start_location": {
                 "lat": 37.7917188,
@@ -394,48 +394,48 @@
             {
               "distance": {
                 "text": "0.1 mi",
-                "value": 213
+                "value": 210
               },
               "duration": {
                 "text": "1 min",
-                "value": 60
+                "value": 64
               },
               "end_location": {
-                "lat": 37.7930675,
-                "lng": -122.40117
+                "lat": 37.7939808,
+                "lng": -122.4013414
               },
-              "html_instructions": "Turn <b>left</b> onto <b>California St</b>",
+              "html_instructions": "Turn <b>left</b> after Walgreens (on the right)",
               "maneuver": "turn-left",
               "polyline": {
-                "points": "moteFn_ajVC@Dv@PdCDl@Dz@L`BHlA"
+                "points": "guteFt`ajVDp@HfAHvABVDl@Dj@PpC"
               },
               "start_location": {
-                "lat": 37.7933476,
-                "lng": -122.398801
+                "lat": 37.7942845,
+                "lng": -122.3989855
               },
               "travel_mode": "DRIVING"
             },
             {
               "distance": {
-                "text": "0.4 mi",
-                "value": 605
+                "text": "0.3 mi",
+                "value": 502
               },
               "duration": {
-                "text": "3 mins",
-                "value": 161
+                "text": "2 mins",
+                "value": 128
               },
               "end_location": {
                 "lat": 37.7984385,
                 "lng": -122.4022479
               },
-              "html_instructions": "Turn <b>right</b> onto <b>Sansome St</b><div style=\"font-size:0.9em\">Pass by Planet Fitness (on the left)</div>",
+              "html_instructions": "Turn <b>right</b> onto <b>Sansome St</b>",
               "maneuver": "turn-right",
               "polyline": {
-                "points": "umteFhnajVaBPsANQDiALsALyARo@Fe@FiBR_@FSBSDs@He@Fw@J]Dc@Fk@Fm@HWBc@F"
+                "points": "ksteFjoajVQDiALsALyARo@Fe@FiBR_@FSBSDs@He@Fw@J]Dc@Fk@Fm@HWBc@F"
               },
               "start_location": {
-                "lat": 37.7930675,
-                "lng": -122.40117
+                "lat": 37.7939808,
+                "lng": -122.4013414
               },
               "travel_mode": "DRIVING"
             },
@@ -633,7 +633,7 @@
         }
       ],
       "overview_polyline": {
-        "points": "ixeeFfh{hVlBk@g@{BqA}Ds@}Ao@cAiByByByB_BkAKAo@Y}CsAcAWoB]kBI{ABmGh@qDTeAKqA[]QgA}@_AmAi@kA{@qCYcA}@XoAhAkCxCo@\\qAPc@Dw@_@s@[sAo@wDcBiSgHcDiAwCu@}ASeGe@uE]cCI_FSk@_@QQG]Bu@Za@XGPBNF\\b@JfAKj@s@nAKl@kA|@}BlB{F~EgGlFoEtDcNfLaKtIsZdW{V~Sk[|W{L~JiItF{QvLyAlAsAzAwB`D}AjDq@rBq@jCaAhE{AtG}CxMoCnLmBtHaBjEuBvDiC`DcCvBsBnAsAp@oC|@gEfA}DbAqA^aBt@wAz@uAnAaCfDoBnDoArC}GtOqB|EsBdGgDfMmCpMw@vE}@zGyAhO{@xHk@nCm@tB}@xBkAtBqBlC{E~FkCdDoC|DsBdEgBdFgI|XoOni@iHpVmErNo@vCe@jCa@jDWnDItC?`GV`Gr@dIt@nIh@lHFzEQ`Fu@bGy@rDs@vBeAdCsA`Cw@fAaBlBoBbBaDlB_DjAyCj@eCN{C@qCUsAS}Aa@aBm@mCuAoA{@_C{BcCcDkEkHUa@s@}@yCcF{DmG{AaB{AcAaBm@mAUgAIgBBoBZcA\\uAt@mAbAq@v@oAzBu@pBwBhGqObd@y@dD]pDE~ADdALnBl@~FZ~BBx@@vDd@h@@f@DdBN|Bp@|G`AjIf@|FrAjG|ApF`AfFj@zFVbEx@vVb@vKf@|J|AlTxC~_@~BnZnBtVjAhNz@xFf@zBpApEjB~EhGbMlCrFzClGbBnDdAfBnAjBpAxArDhDtCdCdJxJtNvOfXpZjFxFbH~HjH|H~NfP`DjDjDnDzFvGtNzOnWzXtC`Dn@x@\\p@vApCJRCV?Br@dCJ|AK|BYpAy@`BuC|Da@^u@Pg@Cc@OgDsEoAaBEAMISBUN{DlF{JzMs@jAi@XoGr@@x@VrDR|CHlAaBPeBT}CZyGv@{BZqGv@c@FB`@B^ZtEl@lJz@`Np@hKBvAB\\VjBT|BnDbk@v@pOLzAj@nHyC`@qMdBuGt@aFl@l@xIdD`h@jE~p@xA`VCn@On@sCxE{HhM{AdCaArAiCpCg@r@a@|@Yt@[dBMnBC|BXdG`@bGXrDb@tDh@vCt@rDtAdH^xCLbDE`Ey@tHqAbK_AnHaAtGkArEoArD{AfD_BpCGFu@`AiC|CmBrBuAlAgBbBq@z@"
+        "points": "ixeeFfh{hVlBk@g@{BqA}Ds@}Ao@cAiByByByB_BkAKAo@Y}CsAcAWoB]kBI{ABmGh@qDTeAKqA[]QgA}@_AmAi@kA{@qCYcA}@XoAhAkCxCo@\\qAPc@Dw@_@s@[sAo@wDcBiSgHcDiAwCu@}ASeGe@uE]cCI_FSk@_@QQG]Bu@Za@XGPBNF\\b@JfAKj@s@nAKl@kA|@}BlB{F~EgGlFoEtDcNfLaKtIsZdW{V~Sk[|W{L~JiItF{QvLyAlAsAzAwB`D}AjDq@rBq@jCaAhE{AtG}CxMoCnLmBtHaBjEuBvDiC`DcCvBsBnAsAp@oC|@gEfA}DbAqA^aBt@wAz@uAnAaCfDoBnDoArC}GtOqB|EsBdGgDfMmCpMw@vE}@zGyAhO{@xHk@nCm@tB}@xBkAtBqBlC{E~FkCdDoC|DsBdEgBdFgI|XoOni@iHpVmErNo@vCe@jCa@jDWnDItC?`GV`Gr@dIt@nIh@lHFzEQ`Fu@bGy@rDs@vBeAdCsA`Cw@fAaBlBoBbBaDlB_DjAyCj@eCN{C@qCUsAS}Aa@aBm@mCuAoA{@_C{BcCcDkEkHUa@s@}@yCcF{DmG{AaB{AcAaBm@mAUgAIgBBoBZcA\\uAt@mAbAq@v@oAzBu@pBwBhGqObd@y@dD]pDE~ADdALnBl@~FZ~BBx@@vDd@h@@f@DdBN|Bp@|G`AjIf@|FrAjG|ApF`AfFj@zFVbEx@vVb@vKf@|J|AlTxC~_@~BnZnBtVjAhNz@xFf@zBpApEjB~EhGbMlCrFzClGbBnDdAfBnAjBpAxArDhDtCdCdJxJtNvOfXpZjFxFbH~HjH|H~NfP`DjDjDnDzFvGtNzOnWzXtC`Dn@x@\\p@vApCJRCV?Br@dCJ|AK|BYpAy@`BuC|Da@^u@Pg@Cc@OgDsEoAaBEAMISBUN{DlF{JzMs@jAi@XkHx@gALs@Ha@FDp@R~CHdAV|D{ARcGp@qDd@mH|@{@JB`@Z~En@tJXjEpApSFlBTbCP|@Ft@jB|Z`AxNf@fIH~CJlARlBb@zGa@FgANmG|@yDf@{Gr@eGt@OBB`@BT^tFz@tMtEps@hAhQlApQd@rI?z@Mp@cCdE{GxKmBbDuArBkCvCg@l@g@~@Yv@]`BOnBEjCl@tL`AvKn@pDtA~Gt@vD`@|CN|C@tAGzBu@`Hw@`Gu@fGaAzHe@rCy@dDwAlEuAdDoA`Cg@p@I@{AvBeAlAgBpBgExDcAnA"
       },
       "summary": "I-880 N",
       "warnings": [],
