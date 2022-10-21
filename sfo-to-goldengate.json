@@ -24,27 +24,27 @@
       "bounds": {
         "northeast": {
           "lat": 37.8075823,
-          "lng": -122.3901184
+          "lng": -122.3897739
         },
         "southwest": {
           "lat": 37.6134811,
-          "lng": -122.4794264
+          "lng": -122.4794244
         }
       },
       "copyrights": "Map data ©2022 Google",
       "legs": [
         {
           "distance": {
-            "text": "18.2 mi",
-            "value": 29347
+            "text": "18.3 mi",
+            "value": 29411
           },
           "duration": {
             "text": "35 mins",
-            "value": 2071
+            "value": 2077
           },
           "duration_in_traffic": {
-            "text": "33 mins",
-            "value": 1990
+            "text": "35 mins",
+            "value": 2081
           },
           "end_address": "Golden Gate Bridge, Golden Gate Bridge, San Francisco, CA, USA",
           "end_location": {
@@ -178,21 +178,21 @@
             },
             {
               "distance": {
-                "text": "0.3 mi",
-                "value": 529
+                "text": "0.4 mi",
+                "value": 593
               },
               "duration": {
                 "text": "2 mins",
-                "value": 129
+                "value": 135
               },
               "end_location": {
                 "lat": 37.6150598,
                 "lng": -122.3938989
               },
-              "html_instructions": "Keep <b>left</b> to stay on <b>International Terminal Arrivals Level</b>",
-              "maneuver": "keep-left",
+              "html_instructions": "Keep <b>right</b> to stay on <b>International Terminal Arrivals Level</b>",
+              "maneuver": "keep-right",
               "polyline": {
-                "points": "}pqdFtk_jVCIEOEK?AGKEEGEECGCEAGCG?G?G?C?C?IBKB[Ju@R]JSFMDKBIDIFGHGFCFELCLABAFALAH?J@H@HBJ?BBFBHDFDD@BFDHFFF@?HFLJDBDBJLFHDDBFBHBF@JJl@BRBP@RDj@@@Bd@@B@P?LALD\\Hn@N~@"
+                "points": "}pqdFtk_jV?KASAIAAAKC[AA?AAGCGEIIIGGGCCCKEOAA?O@SBC@UFw@TUFy@VIDKFEHGHGFALEHCDCHAFAHAH?D?J@N@N?B@JBLBLBFBD?BBFBHDFDD@BFDHFFF@?HFLJDBDBJLFHDDBFBHBF@JJl@BRBP@RDj@@@Bd@@B@P?LALD\\Hn@N~@"
               },
               "start_location": {
                 "lat": 37.6143855,
@@ -537,7 +537,7 @@
         }
       ],
       "overview_polyline": {
-        "points": "arrdFfgajVnCi@pAYdBc@f@SR@PAfCu@zCy@nC{@fCs@`@Ml@Wn@g@^c@f@_ARi@Nm@VsBBcCIcBMiAWeBkAaH]}@Uo@]gBIk@?_@`@yBBYCg@Og@MQMI]IW?gBf@kA\\[VKNIZGb@B^J`@TV\\VXRRVHLH\\TfBLvA@^ALD\\XnBFn@FbAPzCDl@Dx@AP?l@C^S~@]t@UZ]XgAp@wAt@_CbAwAd@oBh@u@RSL{A`@yG`B}D|@sG|AeQdEaIjBeBZm@H[HmANm@FcCVmAJaAJSNoBHoFRmBHgANs@TaAf@}@t@y@fAm@jAk@~Ac@dBStAOhBEdA@~AHfBf@rHFlC?xBEhDA~ANp@SvFKnDAtBHlDNzBPzA^bC^bBn@tBx@`CpChIrBfGvEfNhBhGtA|EX`BL|@HbAHxANjDf@`MP~D?`AGz@UnASl@}@`BkCnEKZy@dAQVoAjByAfBgAfAcBzA}AnAaAj@}@f@_Br@sDtAoDpAoDrAaAh@cAl@{A`AmDtC{HrGyCfC}B|BkAxA}@pAcAfBo@lA}CfHeBxDaA`B_AjA{A|AqA`AeBbAsE|B{EbCsFrCoCtA_Aj@aAn@eCtBmArAkA~A}AtBiFlH}FdImWh^sAbBoAnAmA`A{A~@aBr@kBf@cBVaBLeLB}J@_CDsDXwCb@iB`@sBj@sCdAuBdA_B|@wBvAuIrGeGxEqBzAoBhAkBt@uA\\{@PmBPgABq@?oAEqHOgFKwCIqHUiFMgAKgBWqDy@oDy@eAQ{BS{CAyC@}MFeC@aADcAHiAPiEfAwCr@}@N_AHoAFgB@wBH}EFsA?m@NcBBkEHgDBoBAqDQmQgAyAEoFBmJBoCDcBJoCXoBVeCh@eIvBsCl@a@DUFWPs@f@w@|@kI|Hi@d@s@Z]Ha@DuCE_EM}BE}LWmGKiHQwDIs@AwA@oCHqFTiTl@cIPk]bAmHLuBHoWt@sSl@eM^eJVqHTAc@Ak@AgAAm@q@BcIXoITyJZkIViM^HtEsBDeAP]Nm@ZyA~@aA^s@Pu@Je@@wCP{@Pk@Pw@XeElB]Py@Ta@Bc@GUGi@_@a@m@Oa@Gc@GaBMiHKaDSaD?gANmCVkGAg@CUMg@Wc@]WOE[GmABmVt@y\\bAkVt@iA?mBKqBYuA]_Bk@kBeAeFkDyDeCcAi@aA]uA[i@IgAGcAA}GEeJGsJEcSMoHCiBAw@Hs@Ve@ZUT]h@]x@UfAc@nDYjA[~@]t@Ub@APm@`Am@t@eAlAgBpBeAbAw@n@iAdAg@j@[b@"
+        "points": "arrdFfgajVnCi@pAYdBc@f@SR@PAfCu@zCy@nC{@fCs@nAe@n@g@^c@f@_ARi@Nm@VsBBcCIcBMiAWeBkAaHs@mB]gBIk@?_@`@yBBYCg@Ek@Gk@EOOS_@UQAc@DgBf@cA\\QPGHITO`@CXBn@Hf@JXPZZTb@ZX\\JXT~ALfB@p@b@hDH`ANpCNfCCdAOjA]x@g@p@oAx@gAl@cCfAwC~@{Bl@SLaAVqCr@iAXeFjA_GvAwHhBiOnD{Bf@oDp@iGp@uCXQNO@o@ByEPyBHiBL_AV}@b@w@j@cAhAi@`Ai@pAm@tBYdBMpAG`BA~@HdCf@|GF|B@fCGjHNn@ARQnEInCC|BDpDNnCNxA\\~B\\~An@|Bh@~AfDvJ`ItUfEzNVpAN|@N`BD~@N~C^`JZnHBbAE|@SrAUr@k@lAmB|C_AjBcArAy@lAeBzBcAfA_BxAgBvAkAt@oCtAgJjDkDpAeAh@wCdBoDrCgDrCoHfG}BzBmAvAgA~AgB~CiC|F}BhFiAnBy@hAmAnAsAfAkBlAyDlB_FfCyE`C_G|CaAn@_CjBcCjCuBvCwDlF{`@lj@}AnBgAlAkAbAiBjAsAn@oBl@sATqBRyKDgK@yBBuDVcDb@{AZkCr@_Cx@iClAiAn@eC`BgCjB{LlJ}BdBoBnAyB|@}@X}AZ}ANqBDwAE_GMuGKoHUsJUyAKeBU}D{@oDy@_AQsBUwCCcB@mNDiFDgAFoAPgEdA{Cv@{BZyCHsIPiC@m@Nu@@{@BuCD_BBoA@kB?uDO{EYaKm@sAIiFBoI@eEFaADmBNqFv@qJdCmCj@eARQBWNIJo@`@o@t@o@l@mEdE{BrBi@Xa@Lc@FmCEcGOmVe@aGOgJQaK\\uTn@gGPqXt@{Rf@}f@vAah@zAE}BAgAiGTmHRwEN{Pf@yNb@O@F`E@R_ABgAFk@Hw@ZiBjAu@Z}@VeBPiCNeB\\eA`@qD`Bi@Vw@Vc@Da@Aa@Ke@[a@e@Um@Ga@GsAKsFMaFQgCAyAd@kKAqAKg@Wg@]Y_@MWAe@@wKZsIV}Y|@cVt@cEH{AEsBWeBa@uAe@aBw@sFwDeDyBuAw@uAg@c@KeAUi@GwAEuFCeJGmLGuRMeICwAA}@Dy@Rg@Xu@z@c@|@S|@]xC]dBk@dBk@hA?Jm@`AaAjAsB`CkAlAoC~B{@~@Yb@"
       },
       "summary": "I-280 N",
       "warnings": [],
