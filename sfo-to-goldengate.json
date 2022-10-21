@@ -24,7 +24,7 @@
       "bounds": {
         "northeast": {
           "lat": 37.8075823,
-          "lng": -122.3882742
+          "lng": -122.3882798
         },
         "southwest": {
           "lat": 37.6134811,
@@ -35,16 +35,16 @@
       "legs": [
         {
           "distance": {
-            "text": "18.8 mi",
-            "value": 30249
+            "text": "18.5 mi",
+            "value": 29805
           },
           "duration": {
-            "text": "35 mins",
-            "value": 2081
+            "text": "38 mins",
+            "value": 2296
           },
           "duration_in_traffic": {
-            "text": "47 mins",
-            "value": 2832
+            "text": "44 mins",
+            "value": 2651
           },
           "end_address": "Golden Gate Bridge, Golden Gate Bridge, San Francisco, CA, USA",
           "end_location": {
@@ -178,21 +178,21 @@
             },
             {
               "distance": {
-                "text": "0.3 mi",
-                "value": 529
+                "text": "0.4 mi",
+                "value": 593
               },
               "duration": {
                 "text": "2 mins",
-                "value": 129
+                "value": 135
               },
               "end_location": {
                 "lat": 37.6150598,
                 "lng": -122.3938989
               },
-              "html_instructions": "Keep <b>left</b> to stay on <b>International Terminal Arrivals Level</b>",
-              "maneuver": "keep-left",
+              "html_instructions": "Keep <b>right</b> to stay on <b>International Terminal Arrivals Level</b>",
+              "maneuver": "keep-right",
               "polyline": {
-                "points": "}pqdFtk_jVCIEOEK?AGKEEGEECGCEAGCG?G?G?C?C?IBKB[Ju@R]JSFMDKBIDIFGHGFCFELCLABAFALAH?J@H@HBJ?BBFBHDFDD@BFDHFFF@?HFLJDBDBJLFHDDBFBHBF@JJl@BRBP@RDj@@@Bd@@B@P?LALD\\Hn@N~@"
+                "points": "}pqdFtk_jV?KASAIAAAKC[AA?AAGCGEIIIGGGCCCKEOAA?O@SBC@UFw@TUFy@VIDKFEHGHGFALEHCDCHAFAHAH?D?J@N@N?B@JBLBLBFBD?BBFBHDFDD@BFDHFFF@?HFLJDBDBJLFHDDBFBHBF@JJl@BRBP@RDj@@@Bd@@B@P?LALD\\Hn@N~@"
               },
               "start_location": {
                 "lat": 37.6143855,
@@ -226,21 +226,21 @@
             },
             {
               "distance": {
-                "text": "0.8 mi",
-                "value": 1334
+                "text": "0.3 mi",
+                "value": 510
               },
               "duration": {
                 "text": "1 min",
-                "value": 72
+                "value": 26
               },
               "end_location": {
-                "lat": 37.7696773,
-                "lng": -122.4163238
+                "lat": 37.7693359,
+                "lng": -122.4073596
               },
               "html_instructions": "Keep <b>left</b> at the fork to continue on <b>US-101 N</b>/<wbr/><b>Central Fwy</b>, follow signs for <b>N Golden Gate Bridge</b>/<wbr/><b>Ninth St</b>/<wbr/><b>Civic Ctr</b>",
               "maneuver": "fork-left",
               "polyline": {
-                "points": "eaoeFjebjVQPA@W@U@M@o@D_@B_@BWBS@a@BK@O@_@BO@G@O@OBG@IBODKDKDA@EBGBGDEDIDIJKHA@EFEFMLEHQVORMNINQTSZQVk@v@ILCDQVQ\\MPKPe@|@[h@KPCHEHEJENEPCPCN?HAL@H?D?F?F@D@H@HBJBLHPFPDHFHFLNTFPFPBJBJ@JBP?F?L?XANA\\ARC^EjAElAAPCtAA`AAf@EfFC`D?p@Ar@Ap@CrB?NCzA"
+                "points": "eaoeFjebjVQPA@W@U@M@o@D_@B_@BWBS@a@BK@O@_@BO@G@O@OBG@IBODKDKDA@EBGBGDEDIDIJKHA@EFEFMLEHQVORMNINQTSZQVk@v@ILCDQVQ\\MPKP"
               },
               "start_location": {
                 "lat": 37.7654713,
@@ -250,96 +250,121 @@
             },
             {
               "distance": {
-                "text": "0.4 mi",
-                "value": 707
+                "text": "0.2 mi",
+                "value": 268
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 48
+              },
+              "end_location": {
+                "lat": 37.7713078,
+                "lng": -122.408549
+              },
+              "html_instructions": "Take exit <b>433C</b> toward <b>Ninth St</b>/<wbr/><b>Civic Center</b>",
+              "maneuver": "ramp-right",
+              "polyline": {
+                "points": "kyoeF~tbjVM@?@A?U\\QVy@jAUb@EDKNGHGHQPMJCBIBKDKBA@OBI?I?G?UCKCKEOEECICGAI?K@"
+              },
+              "start_location": {
+                "lat": 37.7693359,
+                "lng": -122.4073596
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.6 mi",
+                "value": 954
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 190
+              },
+              "end_location": {
+                "lat": 37.7774067,
+                "lng": -122.4161779
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>9th St</b><div style=\"font-size:0.9em\">Parts of this road may be closed at certain times or days</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "uepeFl|bjVwAnB}CdESVe@n@KL[`@MPe@l@ILaAnAW\\GJKNA?{@lAQTKNOTMPORQRGH{@hAiA`BKLgA|AsAhBcBxBmBfC[\\"
+              },
+              "start_location": {
+                "lat": 37.7713078,
+                "lng": -122.408549
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.9 mi",
+                "value": 1513
+              },
+              "duration": {
+                "text": "6 mins",
+                "value": 378
+              },
+              "end_location": {
+                "lat": 37.790797,
+                "lng": -122.4190635
+              },
+              "html_instructions": "Keep <b>right</b> to continue on <b>Larkin St</b><div style=\"font-size:0.9em\">Parts of this road may be closed at certain times or days</div><div style=\"font-size:0.9em\">Pass by Lee's Sandwiches (on the left in 0.4&nbsp;mi)</div>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "ykqeFbldjVYPSPUJYB_@DUDOBE@G@kAN]Fk@HeALC@QBOBO@MB[FK@YBYDQBS@SB_@B{ANeAJgANyAPWBk@Fa@FgALc@FQBkANSBgALUBgAN{APm@HWBWB}AR}@J_@D{ARUBgALw@Jc@Fc@Dy@JeALUD}AP}APc@Dq@Jo@Hi@FG@E?"
+              },
+              "start_location": {
+                "lat": 37.7774067,
+                "lng": -122.4161779
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.3 mi",
+                "value": 438
               },
               "duration": {
                 "text": "2 mins",
-                "value": 106
+                "value": 134
               },
               "end_location": {
-                "lat": 37.7718798,
-                "lng": -122.4233444
+                "lat": 37.7901802,
+                "lng": -122.4239896
               },
-              "html_instructions": "Take exit <b>434B</b> on the <b>left</b> for <b>Octavia Blvd</b> toward <b>Fell St</b>",
-              "maneuver": "ramp-left",
+              "html_instructions": "Turn <b>left</b> onto <b>California St</b><div style=\"font-size:0.9em\">Pass by Chase Bank (on the right)</div>",
+              "maneuver": "turn-left",
               "polyline": {
-                "points": "o{oeF~ldjVEnAC\\Cf@C^CXIdAALMxAGv@E`@Eh@C^C^ALARAPA^A|@?B?N?ZAB?P?TA\\?PAPAPANCTCZCNKf@Kb@Mb@IVKXUd@ILILGHGHADGHIHCBCBa@`@SNGDiB`AQP"
+                "points": "o_teFb~djVDh@@NR`D@PDj@Dl@@RB`@B`@NzB@HJzAB`@Dj@Dl@HxADj@Bf@Dl@"
               },
               "start_location": {
-                "lat": 37.7696773,
-                "lng": -122.4163238
+                "lat": 37.790797,
+                "lng": -122.4190635
               },
               "travel_mode": "DRIVING"
             },
             {
               "distance": {
-                "text": "0.1 mi",
-                "value": 225
+                "text": "0.8 mi",
+                "value": 1225
               },
               "duration": {
-                "text": "1 min",
-                "value": 76
-              },
-              "end_location": {
-                "lat": 37.7733213,
-                "lng": -122.4215459
-              },
-              "html_instructions": "Turn <b>right</b> onto <b>Market St</b>",
-              "maneuver": "turn-right",
-              "polyline": {
-                "points": "gipeFzxejVOUQUMS]c@c@i@Y_@CE]c@OSQUMSKKKOEGQUQU"
-              },
-              "start_location": {
-                "lat": 37.7718798,
-                "lng": -122.4233444
-              },
-              "travel_mode": "DRIVING"
-            },
-            {
-              "distance": {
-                "text": "328 ft",
-                "value": 100
-              },
-              "duration": {
-                "text": "1 min",
-                "value": 22
-              },
-              "end_location": {
-                "lat": 37.7739764,
-                "lng": -122.4207746
-              },
-              "html_instructions": "Slight <b>left</b> toward <b>Franklin St</b>",
-              "maneuver": "turn-slight-left",
-              "polyline": {
-                "points": "grpeFtmejVGAAACA]g@qAgBEE"
-              },
-              "start_location": {
-                "lat": 37.7733213,
-                "lng": -122.4215459
-              },
-              "travel_mode": "DRIVING"
-            },
-            {
-              "distance": {
-                "text": "1.9 mi",
-                "value": 3050
-              },
-              "duration": {
-                "text": "8 mins",
-                "value": 470
+                "text": "3 mins",
+                "value": 179
               },
               "end_location": {
                 "lat": 37.8010553,
                 "lng": -122.4262049
               },
-              "html_instructions": "Continue onto <b>Franklin St</b><div style=\"font-size:0.9em\">Pass by Wheel Works (on the left in 1.0&nbsp;mi)</div>",
+              "html_instructions": "Turn <b>right</b> onto <b>Franklin St</b>",
+              "maneuver": "turn-right",
               "polyline": {
-                "points": "kvpeFxhejVAACACAC?C?G?UDOBOBmANSBy@HMB_@Dc@FQBG@kANQBG?I@e@Fe@DQBc@DSDQ@OBmANM@i@HK@E@QBuCXg@H_@Dy@Jw@Jc@Fc@DWDc@D{ARWDeALw@Ha@FSBiANUBc@Fc@DUBc@Fc@Fw@Hc@Fc@Dc@FSB{@Jc@D{APo@Jm@Ha@DmANmALgALOB_BR{APq@Jk@F{AR}APi@FE@a@Da@Dc@Dg@FaBRuAPoDb@mDb@qD`@a@FkBR_@Fk@FiBTc@Fc@Dc@FeALc@FK@a@FkBTk@Fa@FA?aBPG@k@H_BP{APMBiD`@kBT[Da@F"
+                "points": "s{seF||ejVaBRuAPoDb@mDb@qD`@a@FkBR_@Fk@FiBTc@Fc@Dc@FeALc@FK@a@FkBTk@Fa@FA?aBPG@k@H_BP{APMBiD`@kBT[Da@F"
               },
               "start_location": {
-                "lat": 37.7739764,
-                "lng": -122.4207746
+                "lat": 37.7901802,
+                "lng": -122.4239896
               },
               "travel_mode": "DRIVING"
             },
@@ -443,7 +468,7 @@
         }
       ],
       "overview_polyline": {
-        "points": "arrdFfgajVnCi@pAYdBc@f@SR@PAfCu@zCy@nC{@fCs@nAe@n@g@^c@f@_ARi@Nm@VsBBcCIcBMiAWeBkAaHs@mB]gBIk@?_@`@yBBYCg@Og@MQMI]IW?gBf@kA\\[VUj@Gb@B^J`@TV\\VXR\\d@H\\TfBLvADjA`@~CFbAPzCDl@BjAClAS~@]t@s@t@gAp@wAt@_CbAgEnAu@RSL{A`@yG`B}D|@sG|AeQdEaIjBeBZm@HeAHw@FwAJ}EReCDcEPW@kAL{CZsCb@iAHkC^uAToCr@kAf@oDrBuBnAGHIN]NkBv@gAb@kBl@{Bn@wBb@mDh@qDZuIZeS|@wYhAwAJ_EPyBF{BAmCQyBW}Co@qDuAoEiBkCiAsBgA_Aq@cBuAeBoBgBiC}EuI{FgKeBuCyAwBmB}BaCiCiBeByJkJ}FsFeFoEeE_D{CkB_G}CsB_AiE_B_EkAmB]oAOuDScCBeBHuLvA}L`BsQdC{b@bGie@tGcSnCyHfAcGt@yLbBsLdBsJnAkDn@eBf@{Ap@}Ax@eCdBmDpC{B~AeB`AmC`A}A`@oCf@sHpAyCh@wCn@oD~@cCr@gGjBoGfBgG|AsKxCsBp@eD`BmDbBgHvC}CtAsHvDcG~CkDzAmCv@uAX}ANiCLoA?eCMOMQ?y@M}@OoDaAgAk@yA_AcCmBsDqCcAk@iAg@iA_@mAYiGsA}EgAmLgCyD{@yBa@qBQeAE_B?iBFaHZaFXwAVk@R}Az@gAbA{AtBiBnCiAlAwA|@eBj@aBLgAAeAO}@UmAi@yBmAqB{@{Bg@sBQyAEgDCQPYBsBLmBL{BRq@TWNe@`@[^wB~CkAbBqA~Bq@nAU~@Cp@@ZJl@^v@f@fALt@A~@M|CMvFKbNGhFIjDGdASlCa@|EK`BErBExCKrAOv@YfAUp@_@r@[f@YZu@p@qBfAQPOUQUiBaCiBcCW]YWuBsCOKe@DmGv@uEh@eRzBmSdCkWzC}aApLkOfB{Df@b@dHpA`SpBxZhBxXdA~Ol@tJDpACn@On@_@p@eGvJeG~JaArA}AdBsA~Aa@|@Yt@[dBGn@I`C?z@FfB\\hGn@jIb@tDVzAp@dDf@fCr@jDd@xCTbD@~CE|AWpCy@pGgAvI_ArHeAhGcBxFcAlC}@lB_BpCGFG?m@`AaAjAgApAmBrBuAlAcAz@c@f@q@z@"
+        "points": "arrdFfgajVnCi@pAYdBc@f@SR@PAfCu@zCy@nC{@fCs@nAe@n@g@^c@f@_ARi@Nm@VsBBcCIcBMiAWeBkAaHs@mB]gBIk@?_@`@yBBYCg@Ek@Gk@EOOS_@UQAc@DgBf@cA\\QPGHITO`@CXBn@Hf@JXPZZTb@ZX\\JXT~ALfB@p@b@hDH`ANpCNfCCdAOjA]x@g@p@oAx@gAl@cCfAwC~@{Bl@SLaAVqCr@iAXeFjA_GvAwHhBiOnD{Bf@oAV_ANa@ByANgAFiETuDHiEPoAFeBRs@JuARaCXgCZaBVaCj@gBp@eDhBwBpASNMTyD~A_Bj@oFvAyDn@oDZuSz@_VbAyMf@kFXsCHoB@{BKkCYkAQoBc@}CiAgJyDwBiAqCwB}@y@y@aA}A{B}EqIcCoEwByDmBcDoAiBmBaC_CgC_A_AqKeKeGwFeFsE}EsDiCaB_G_D}Au@oFsBwDiAeB_@mAOwDUaC?eBFmJfAuYzDo^bFui@tHkc@dGgDd@mCZwJtAqNpByJpAsDl@_Bb@uAj@mB~@cC`B}GlFkAp@aAf@uBx@cBb@eBZqHrAeEr@uBb@gEdAcCr@uLpDiJ`CeJdC}C`A_CfA}E`CyB|@cIhDaPhIcD|A_Bj@iAZeB^qANiCL{A@iCMQMq@GeAQyDaAw@_@yA{@qCyBcDgCgAo@eAi@{Ai@{@UmE}@kN}CgE_AaIcB{BWkAG{A?{ADwFTmGZ}@JwA^kAh@oA`AwAhB_ClD}@bAuAbA_Bl@aBVsA?q@G_ASmAc@cCqAiB{@qBk@}BWaBIoBCmA?QPA@kBJkBLuCTm@P[Na@\\YZsBtCiC|DMBW\\gBlCm@t@QNUHg@Hs@Ga@OQEU@oH|J{AnBgEzFyEtGkGnIiCdDm@b@o@Nu@JiBVsEn@{ARyALqN~AcXbD{LxAcFl@q@HE?Dh@TpDF|@NdC|@bNHtAwDd@qPpBsM|A_\\zDs@JVfEPnCvAfTtD`l@p@|J~AxV@`AO|@Q`@gBrCsGnKaExGuCbDe@h@i@|@]z@_@|AQlBG`CBxALbCZlFv@nJr@pEp@bDzAtHb@zCPxC@lACtBM~Ae@nEm@xEg@tDw@jGc@fDg@|Cs@vCq@~Bg@xAoA|Cy@`BcA`BGFG?m@`AaAjAsB`CkAlAoC~BuAbB"
       },
       "summary": "US-101 N",
       "warnings": [],
