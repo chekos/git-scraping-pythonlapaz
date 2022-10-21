@@ -36,15 +36,15 @@
         {
           "distance": {
             "text": "18.5 mi",
-            "value": 29699
+            "value": 29698
           },
           "duration": {
             "text": "36 mins",
-            "value": 2136
+            "value": 2149
           },
           "duration_in_traffic": {
             "text": "38 mins",
-            "value": 2290
+            "value": 2268
           },
           "end_address": "Golden Gate Bridge, Golden Gate Bridge, San Francisco, CA, USA",
           "end_location": {
@@ -438,20 +438,20 @@
             },
             {
               "distance": {
-                "text": "0.3 mi",
-                "value": 416
+                "text": "0.1 mi",
+                "value": 208
               },
               "duration": {
                 "text": "1 min",
-                "value": 46
+                "value": 25
               },
               "end_location": {
-                "lat": 37.7768753,
-                "lng": -122.4719938
+                "lat": 37.7750111,
+                "lng": -122.4718576
               },
               "html_instructions": "Continue onto <b>Park Presidio Blvd</b>",
               "polyline": {
-                "points": "cqpeFhgojV_@@m@@gHTa@@iADk@@u@BgDJ"
+                "points": "cqpeFhgojV_@@m@@gHT"
               },
               "start_location": {
                 "lat": 37.7731427,
@@ -469,28 +469,28 @@
                 "value": 26
               },
               "end_location": {
-                "lat": 37.7769408,
-                "lng": -122.4704573
+                "lat": 37.77508419999999,
+                "lng": -122.4703195
               },
-              "html_instructions": "Turn <b>right</b> onto <b>Balboa St</b>",
+              "html_instructions": "Turn <b>right</b> onto <b>Cabrillo St</b>",
               "maneuver": "turn-right",
               "polyline": {
-                "points": "ohqeF|hojV?m@Co@Ak@?g@E_C"
+                "points": "y|peFbhojVCo@Am@AuAE_C"
               },
               "start_location": {
-                "lat": 37.7768753,
-                "lng": -122.4719938
+                "lat": 37.7750111,
+                "lng": -122.4718576
               },
               "travel_mode": "DRIVING"
             },
             {
               "distance": {
-                "text": "0.5 mi",
-                "value": 845
+                "text": "0.7 mi",
+                "value": 1052
               },
               "duration": {
                 "text": "3 mins",
-                "value": 160
+                "value": 194
               },
               "end_location": {
                 "lat": 37.7845281,
@@ -499,11 +499,11 @@
               "html_instructions": "Turn <b>left</b> onto <b>12th Ave</b>",
               "maneuver": "turn-left",
               "polyline": {
-                "points": "{hqeFj_ojVc@@}GRc@@O?sJZK@K?oCHwCJmADq@Bc@@sDJgADc@@"
+                "points": "g}peFn~njVsAD_HTc@@}GRc@@O?sJZK@K?oCHwCJmADq@Bc@@sDJgADc@@"
               },
               "start_location": {
-                "lat": 37.7769408,
-                "lng": -122.4704573
+                "lat": 37.77508419999999,
+                "lng": -122.4703195
               },
               "travel_mode": "DRIVING"
             },
@@ -608,7 +608,7 @@
         }
       ],
       "overview_polyline": {
-        "points": "arrdFfgajVnCi@pAYdBc@f@SR@PAfCu@zCy@nC{@fCs@`@Ml@Wn@g@^c@f@_ARi@Nm@VsBBcCIcBMiAWeBkAaH]}@Uo@]gBIk@?_@`@yBBYCg@Og@MQMI]IW?gBf@kA\\[VKNIZGb@B^J`@TV\\VXRRVHLH\\TfBLvA@^ALD\\XnBFn@FbAPzCDl@Dx@AP?l@C^S~@]t@UZ]XgAp@wAt@_CbAwAd@oBh@u@RSL{A`@yG`B}D|@sG|AeQdEaIjBeBZm@H[HmANm@FcCVmAJaAJSNoBHoFRmBHgANs@TaAf@}@t@y@fAm@jAk@~Ac@dBStAOhBEdA@~AHfBf@rHFlC?xBEhDA~ANp@SvFKnDAtBHlDNzBPzA^bC^bBn@tBx@`CpChIrBfGvEfNhBhGtA|EX`BL|@HbAHxANjDf@`MP~D?`AGz@UnASl@}@`BkCnEKZy@dAQVoAjByAfBgAfAcBzA}AnAaAj@}@f@_Br@sDtAoDpAoDrAaAh@cAl@{A`AmDtC{HrGyCfC}B|BkAxA}@pAcAfBo@lA}CfHeBxDaA`B_AjA{A|AqA`AeBbAsE|B{EbCsFrCoCtA_Aj@aAn@eCtBmArAkA~A}AtBiFlH}FdImWh^sAbBoAnAmA`A{A~@aBr@kBf@cBVaBLeLB}J@_CDsDXwCb@iB`@sBj@sCdAuBdA_B|@wBvAuIrGeGxEqBzAoBhAkBt@uA\\{@PmBPgABq@?oAEqHOgFKwCIqHUiFMgAKgBWqDy@oDy@eAQ{BS{CAyC@}MFeC@aADcAHiAPiEfAwCr@}@N_AHoAFgB@wBH}EFsA?m@NcBBkEHgDBoBAqDQmQgAyAEoFBmJBoCDcBJoCXoBVeCh@eIvBsCl@a@DcIQsRa@cj@gAgHMoAQq@Ki@AmGKsAEcJSUGEAA\\@l@DfGFfFD`DcEJmSh@}L^mHLgM^qRj@{~@lCoIT_CLgEVyCNcRl@sBDk@Hw@VgBfAq@\\kA^mARyCLc@D{@PsAd@wB~@iBz@QHy@Ta@BSCa@I]Qa@e@OWKYKc@AOIkDMoGUmEEiBF}ATeEHqCAg@Ko@Yk@UU[M[GM?uKZmELgDJ?m@E{AEgDaITsL^sUr@c@@BpAD`CB~AuADcEH{AEsBWeBa@uAe@aBw@sFwDeDyBuAw@uAg@c@KeAUi@GwAEuFCeJGmLGuRMeICwAA}@Da@HWHg@X]\\W\\c@|@S|@]xC]dBk@dBk@hA?Jm@`AaAjAsB`CkAlAoC~B{@~@Yb@"
+        "points": "arrdFfgajVnCi@pAYdBc@f@SR@PAfCu@zCy@nC{@fCs@`@Ml@Wn@g@^c@f@_ARi@Nm@VsBBcCIcBMiAWeBkAaH]}@Uo@]gBIk@?_@`@yBBYCg@Og@MQMI]IW?gBf@kA\\[VKNIZGb@B^J`@TV\\VXRRVHLH\\TfBLvA@^ALD\\XnBFn@FbAPzCDl@Dx@AP?l@C^S~@]t@UZ]XgAp@wAt@_CbAwAd@oBh@u@RSL{A`@yG`B}D|@sG|AeQdEaIjBeBZm@H[HmANm@FcCVmAJaAJSNoBHoFRmBHgANs@TaAf@}@t@y@fAm@jAk@~Ac@dBStAOhBEdA@~AHfBf@rHFlC?xBEhDA~ANp@SvFKnDAtBHlDNzBPzA^bC^bBn@tBx@`CpChIrBfGvEfNhBhGtA|EX`BL|@HbAHxANjDf@`MP~D?`AGz@UnASl@}@`BkCnEKZy@dAQVoAjByAfBgAfAcBzA}AnAaAj@}@f@_Br@sDtAoDpAoDrAaAh@cAl@{A`AmDtC{HrGyCfC}B|BkAxA}@pAcAfBo@lA}CfHeBxDaA`B_AjA{A|AqA`AeBbAsE|B{EbCsFrCoCtA_Aj@aAn@eCtBmArAkA~A}AtBiFlH}FdImWh^sAbBoAnAmA`A{A~@aBr@kBf@cBVaBLeLB}J@_CDsDXwCb@iB`@sBj@sCdAuBdA_B|@wBvAuIrGeGxEqBzAoBhAkBt@uA\\{@PmBPgABq@?oAEqHOgFKwCIqHUiFMgAKgBWqDy@oDy@eAQ{BS{CAyC@}MFeC@aADcAHiAPiEfAwCr@}@N_AHoAFgB@wBH}EFsA?m@NcBBkEHgDBoBAqDQmQgAyAEoFBmJBoCDcBJoCXoBVeCh@eIvBsCl@a@DcIQsRa@cj@gAgHMoAQq@Ki@AmGKsAEcJSUGEAA\\@l@DfGFfFD`DcEJmSh@}L^mHLgM^qRj@{~@lCoIT_CLgEVyCNcRl@sBDk@Hw@VgBfAq@\\kA^mARyCLc@D{@PsAd@wB~@iBz@QHy@Ta@BSCa@I]Qa@e@OWKYKc@AOIkDMoGUmEEiBF}ATeEHqCAg@Ko@Yk@UU[M[GM?uKZMsHuTp@uXz@qIVc@@BpAD`CB~AuADcEH{AEsBWeBa@uAe@aBw@eCeB{EaDw@i@uAw@uAg@c@KeAUi@GwAEkMIe^QaJEiGE}@Da@HWHg@X]\\W\\c@|@S|@Q~AKx@]dBk@dBk@hA?Jm@`AaAjAsB`CkAlAoC~B{@~@Yb@"
       },
       "summary": "I-280 N",
       "warnings": [],
