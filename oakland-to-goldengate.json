@@ -36,15 +36,15 @@
         {
           "distance": {
             "text": "23.5 mi",
-            "value": 37825
+            "value": 37827
           },
           "duration": {
             "text": "43 mins",
-            "value": 2573
+            "value": 2595
           },
           "duration_in_traffic": {
-            "text": "46 mins",
-            "value": 2759
+            "text": "47 mins",
+            "value": 2798
           },
           "end_address": "Golden Gate Bridge, Golden Gate Bridge, San Francisco, CA, USA",
           "end_location": {
@@ -370,20 +370,20 @@
             },
             {
               "distance": {
-                "text": "282 ft",
-                "value": 86
+                "text": "0.1 mi",
+                "value": 189
               },
               "duration": {
                 "text": "1 min",
-                "value": 24
+                "value": 50
               },
               "end_location": {
-                "lat": 37.7924273,
-                "lng": -122.3986119
+                "lat": 37.7933476,
+                "lng": -122.398801
               },
               "html_instructions": "Continue onto <b>Front St</b>",
               "polyline": {
-                "points": "geteFn|`jVKPCDQJIBIBM@iAJ"
+                "points": "geteFn|`jVKPCDQJIBIBM@iAJeALqBV"
               },
               "start_location": {
                 "lat": 37.7917188,
@@ -393,121 +393,167 @@
             },
             {
               "distance": {
-                "text": "1.1 mi",
-                "value": 1803
+                "text": "0.1 mi",
+                "value": 213
               },
               "duration": {
-                "text": "5 mins",
-                "value": 326
+                "text": "1 min",
+                "value": 60
               },
               "end_location": {
-                "lat": 37.78984930000001,
-                "lng": -122.4188657
+                "lat": 37.7930675,
+                "lng": -122.40117
               },
-              "html_instructions": "Turn <b>left</b> onto <b>Pine St</b><div style=\"font-size:0.9em\">Pass by Equinox Pine St (on the left)</div>",
+              "html_instructions": "Turn <b>left</b> onto <b>California St</b>",
               "maneuver": "turn-left",
               "polyline": {
-                "points": "uiteFh~`jVRjCL`BT|DDh@PjC@VBN?H@HDv@FhADj@Dj@VjDHdABj@@L?J?B@PHfAB\\Dj@F|@BT@V@TBTNfCBT@VBRB\\?FDj@Dl@Dj@@TLxBBf@BTDn@N`CDj@Bh@?@Dj@FjA`@vFF~@@HDr@Fv@@P?B@BF|@Fz@FjAHpAVjD@T@JDj@HxADl@Dj@Dl@@XDj@@NBV@PDf@Dl@Dr@Dh@Bl@"
+                "points": "moteFn_ajVC@Dv@PdCDl@Dz@L`BHlA"
               },
               "start_location": {
-                "lat": 37.7924273,
-                "lng": -122.3986119
+                "lat": 37.7933476,
+                "lng": -122.398801
               },
               "travel_mode": "DRIVING"
             },
             {
               "distance": {
-                "text": "0.3 mi",
-                "value": 508
+                "text": "0.4 mi",
+                "value": 605
               },
               "duration": {
-                "text": "2 mins",
-                "value": 111
+                "text": "3 mins",
+                "value": 161
               },
               "end_location": {
-                "lat": 37.7943597,
-                "lng": -122.4197873
+                "lat": 37.7984385,
+                "lng": -122.4022479
               },
-              "html_instructions": "Turn <b>right</b> onto <b>Larkin St</b>",
+              "html_instructions": "Turn <b>right</b> onto <b>Sansome St</b><div style=\"font-size:0.9em\">Pass by Planet Fitness (on the left)</div>",
               "maneuver": "turn-right",
               "polyline": {
-                "points": "qyseF||djVc@Dq@Jo@Hi@FG@E?k@HiBTc@Dc@Fs@Hu@J_@Dc@DaALiALa@FA?i@H}@Jc@F"
+                "points": "umteFhnajVaBPsANQDiALsALyARo@Fe@FiBR_@FSBSDs@He@Fw@J]Dc@Fk@Fm@HWBc@F"
               },
               "start_location": {
-                "lat": 37.78984930000001,
-                "lng": -122.4188657
-              },
-              "travel_mode": "DRIVING"
-            },
-            {
-              "distance": {
-                "text": "0.3 mi",
-                "value": 438
-              },
-              "duration": {
-                "text": "2 mins",
-                "value": 122
-              },
-              "end_location": {
-                "lat": 37.7937362,
-                "lng": -122.424713
-              },
-              "html_instructions": "Turn <b>left</b> onto <b>Jackson St</b>",
-              "maneuver": "turn-left",
-              "polyline": {
-                "points": "wuteFtbejVDj@Dl@JxABj@Dl@Fv@Dl@Dn@NdCH~@@V@\\Dl@Dj@PfCDj@Bh@"
-              },
-              "start_location": {
-                "lat": 37.7943597,
-                "lng": -122.4197873
+                "lat": 37.7930675,
+                "lng": -122.40117
               },
               "travel_mode": "DRIVING"
             },
             {
               "distance": {
                 "text": "0.5 mi",
-                "value": 824
+                "value": 807
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 178
+              },
+              "end_location": {
+                "lat": 37.7972525,
+                "lng": -122.411291
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Broadway</b><div style=\"font-size:0.9em\">Pass by Wells Fargo Bank (on the left in 0.3&nbsp;mi)</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "goueF`uajVB`@B^HjABXHxABTDl@@TB`@Dd@FfAJ`BDh@@L@H@RDd@Bb@B\\@TB`@Dt@FdAB^@HBb@@HB`@@HBb@HvA@JDn@Dh@Dj@HxADh@BZ@NB`@?J?DAB?B?D?D?F?F@D@F@LHf@Dh@DJ@DBRDV@H"
+              },
+              "start_location": {
+                "lat": 37.7984385,
+                "lng": -122.4022479
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.4 mi",
+                "value": 657
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 48
+              },
+              "end_location": {
+                "lat": 37.79632760000001,
+                "lng": -122.4186762
+              },
+              "html_instructions": "Continue onto <b>Robert C Levy Tunnel</b>",
+              "polyline": {
+                "points": "ygueFpmcjV@J@L@P@TFbAJbBZhFRxC@XN~BR`DF~@L`BB`@B`@JtA?HJjAJfBB`@"
+              },
+              "start_location": {
+                "lat": 37.7972525,
+                "lng": -122.411291
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.3 mi",
+                "value": 413
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 76
+              },
+              "end_location": {
+                "lat": 37.795761,
+                "lng": -122.423314
+              },
+              "html_instructions": "Continue onto <b>Broadway</b><div style=\"font-size:0.9em\">Pass by Walgreens (on the right)</div>",
+              "polyline": {
+                "points": "abueFv{djVVtDHrA@ZD`B@N?T@VHjA@@JxAFRb@zG"
+              },
+              "start_location": {
+                "lat": 37.79632760000001,
+                "lng": -122.4186762
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.4 mi",
+                "value": 624
               },
               "duration": {
                 "text": "2 mins",
                 "value": 125
               },
               "end_location": {
-                "lat": 37.8010553,
-                "lng": -122.4262049
+                "lat": 37.8012977,
+                "lng": -122.4244714
               },
-              "html_instructions": "Turn <b>right</b> at the 3rd cross street onto <b>Franklin St</b>",
+              "html_instructions": "Turn <b>right</b> onto <b>Van Ness Ave</b>",
               "maneuver": "turn-right",
               "polyline": {
-                "points": "{qteFlafjVa@FkBR_@Fk@FiBTc@Fc@Dc@FeALc@FK@a@FkBTk@Fa@FA?aBPG@k@H_BP{APMBiD`@kBT[Da@F"
+                "points": "o~teFtxejVa@FA?eANo@Hc@FaBVwARa@F_AHG@oARy@HKBc@DM@cAJa@F_@B]Ds@JQBA?QDmAN[Bo@HQ@"
               },
               "start_location": {
-                "lat": 37.7937362,
-                "lng": -122.424713
+                "lat": 37.795761,
+                "lng": -122.423314
               },
               "travel_mode": "DRIVING"
             },
             {
               "distance": {
-                "text": "1.0 mi",
-                "value": 1668
+                "text": "1.1 mi",
+                "value": 1821
               },
               "duration": {
                 "text": "4 mins",
-                "value": 236
+                "value": 268
               },
               "end_location": {
                 "lat": 37.7989071,
                 "lng": -122.4448402
               },
-              "html_instructions": "Turn <b>left</b> onto <b>Lombard St</b>",
+              "html_instructions": "Turn <b>left</b> after Chase Bank (on the right)",
               "maneuver": "turn-left",
               "polyline": {
-                "points": "s_veFvjfjVQBLnBHvAJzA?@B`@@NJpADp@TrDThDJ~A@LDp@Dd@Dj@\\tF\\pFJxANxBFx@N~BBPNfCB`@R~CLjB@T@F@N?HDp@@D?FHjABVBT@N?J@LBb@@LB\\BV@L?JBVDl@@RBT@VVzDFn@?JDh@Dd@P~C@FBb@HlA@V@N?P@V?J?JAJAJGV"
+                "points": "caveF|_fjVOBB`@BP?BB`@JvAB`@JxADj@LnBHvAJzA?@B`@@NJpADp@TrDThDJ~A@LDp@Dd@Dj@\\tF\\pFJxANxBFx@N~BBPNfCB`@R~CLjB@T@F@N?HDp@@D?FHjABVBT@N?J@LBb@@LB\\BV@L?JBVDl@@RBT@VVzDFn@?JDh@Dd@P~C@FBb@HlA@V@N?P@V?J?JAJAJGV"
               },
               "start_location": {
-                "lat": 37.8010553,
-                "lng": -122.4262049
+                "lat": 37.8012977,
+                "lng": -122.4244714
               },
               "travel_mode": "DRIVING"
             },
@@ -587,7 +633,7 @@
         }
       ],
       "overview_polyline": {
-        "points": "ixeeFfh{hVlBk@g@{BqA}Ds@}Ao@cAiByByByB_BkAKAo@YcBy@y@YcAWoB]kBI{ABmGh@kBPeABeAKqA[]QgA}@_AmAi@kA{@qCYcA_@F]P[Ts@r@kCxCo@\\qAPc@Dw@_@s@[sAo@wDcBiSgHcDiAmBk@i@I}ASeGe@uE]cCI_FSk@_@QQG]A_@DUZa@XGPBNF\\b@JfAKj@s@nAKl@kA|@}BlB{F~EgGlFoEtDcNfLaKtIsZdW{V~Sk[|W{L~J{B`BmErC{QvLyAlAsAzAwB`D}AjDq@rBq@jCaAhE{AtG}CxMoCnLmBtHaBjEuBvDiC`DcCvBsBnAsAp@oC|@gEfA}DbAqA^aBt@wAz@uAnA{@dAeA`BoBnDoArC}GtOqB|EsBdGgDfMmCpMw@vE}@zGyAhO{@xHk@nCm@tB}@xBkAtBqBlC{E~FkCdDoC|DsBdEgBdFgI|XeHtViFxQiHpVmErNo@vCe@jCa@jDWnDItC?`GV`Gr@dIt@nIh@lHFzEQ`FWfC]zBy@rDs@vBeAdCsA`Cw@fAaBlBoBbB{A`AeAj@_DjAyCj@eCN{C@qCUsAS}Aa@aBm@mCuAoA{@_C{BsAcBo@_AkEkHUa@s@}@yCcF{DmG{AaB{AcAaBm@mAUgAIgBBoBZcA\\uAt@mAbAq@v@oAzBu@pBwBhGqObd@c@xAUjA]pDE~ADdALnBl@~FZ~BBx@@vDd@h@@f@DdBN|BLfBb@tD`AjIP`BTzCl@`Dd@hB|ApF`AfFj@zFVbEx@vVb@vKf@|J|AlTxC~_@~BnZnBtVjAhNz@xFf@zBpApEjB~EhGbMlCrFzClGbBnDdAfBnAjBpAxArDhDtCdCdJxJtNvOfXpZjFxFbCrC~CjDtCzCtC`D~NfP`DjDjDnDzFvGtNzOnWzXtC`Dn@x@\\p@vApCJRCV?Br@dCJ|AK|BYpAOb@i@|@uC|Da@^u@Pg@Cc@Oa@e@eCmDoAaBEAMISBUN{DlF{JzMs@jAi@XwAL`@lFn@jK^|FpAvRbB`XjEtp@J|ABl@c@DaBTq@H_Ed@mDb@_JfAt@bL`AhOBh@a@FkCZ}Ej@uJlAkOfB{Df@b@dHpA`S~D~m@nChb@DpACn@On@_@p@eGvJeG~JaArA}AdBsA~A{@rB[dBGn@I`CFbD\\hGn@jIb@tDVzAp@dDzArHd@xCTbD@~CE|AWpCy@pGm@vEw@lGeAxHa@tBcBxFcAlC}@lB_BpCGFu@`AiC|CmBrBuAlAcAz@c@f@q@z@"
+        "points": "ixeeFfh{hVlBk@g@{BqA}Ds@}Ao@cAiByByByB_BkAKAo@Y}CsAcAWoB]kBI{ABmGh@qDTeAKqA[]QgA}@_AmAi@kA{@qCYcA}@XoAhAkCxCo@\\qAPc@Dw@_@s@[sAo@wDcBiSgHcDiAwCu@}ASeGe@uE]cCI_FSk@_@QQG]Bu@Za@XGPBNF\\b@JfAKj@s@nAKl@kA|@}BlB{F~EgGlFoEtDcNfLaKtIsZdW{V~Sk[|W{L~JiItF{QvLyAlAsAzAwB`D}AjDq@rBq@jCaAhE{AtG}CxMoCnLmBtHaBjEuBvDiC`DcCvBsBnAsAp@oC|@gEfA}DbAqA^aBt@wAz@uAnAaCfDoBnDoArC}GtOqB|EsBdGgDfMmCpMw@vE}@zGyAhO{@xHk@nCm@tB}@xBkAtBqBlC{E~FkCdDoC|DsBdEgBdFgI|XoOni@iHpVmErNo@vCe@jCa@jDWnDItC?`GV`Gr@dIt@nIh@lHFzEQ`Fu@bGy@rDs@vBeAdCsA`Cw@fAaBlBoBbBaDlB_DjAyCj@eCN{C@qCUsAS}Aa@aBm@mCuAoA{@_C{BcCcDkEkHUa@s@}@yCcF{DmG{AaB{AcAaBm@mAUgAIgBBoBZcA\\uAt@mAbAq@v@oAzBu@pBwBhGqObd@y@dD]pDE~ADdALnBl@~FZ~BBx@@vDd@h@@f@DdBN|Bp@|G`AjIf@|FrAjG|ApF`AfFj@zFVbEx@vVb@vKf@|J|AlTxC~_@~BnZnBtVjAhNz@xFf@zBpApEjB~EhGbMlCrFzClGbBnDdAfBnAjBpAxArDhDtCdCdJxJtNvOfXpZjFxFbH~HjH|H~NfP`DjDjDnDzFvGtNzOnWzXtC`Dn@x@\\p@vApCJRCV?Br@dCJ|AK|BYpAy@`BuC|Da@^u@Pg@Cc@OgDsEoAaBEAMISBUN{DlF{JzMs@jAi@XoGr@@x@VrDR|CHlAaBPeBT}CZyGv@{BZqGv@c@FB`@B^ZtEl@lJz@`Np@hKBvAB\\VjBT|BnDbk@v@pOLzAj@nHyC`@qMdBuGt@aFl@l@xIdD`h@jE~p@xA`VCn@On@sCxE{HhM{AdCaArAiCpCg@r@a@|@Yt@[dBMnBC|BXdG`@bGXrDb@tDh@vCt@rDtAdH^xCLbDE`Ey@tHqAbK_AnHaAtGkArEoArD{AfD_BpCGFu@`AiC|CmBrBuAlAgBbBq@z@"
       },
       "summary": "I-880 N",
       "warnings": [],
