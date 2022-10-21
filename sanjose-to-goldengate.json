@@ -28,7 +28,7 @@
         },
         "southwest": {
           "lat": 37.3164077,
-          "lng": -122.4793913
+          "lng": -122.4794261
         }
       },
       "copyrights": "Map data ©2022 Google",
@@ -36,15 +36,15 @@
         {
           "distance": {
             "text": "56.1 mi",
-            "value": 90260
+            "value": 90350
           },
           "duration": {
             "text": "1 hour 6 mins",
-            "value": 3938
+            "value": 3983
           },
           "duration_in_traffic": {
-            "text": "1 hour 14 mins",
-            "value": 4428
+            "text": "1 hour 8 mins",
+            "value": 4080
           },
           "end_address": "Golden Gate Bridge, Golden Gate Bridge, San Francisco, CA, USA",
           "end_location": {
@@ -225,25 +225,97 @@
             },
             {
               "distance": {
-                "text": "3.4 mi",
-                "value": 5543
+                "text": "0.9 mi",
+                "value": 1482
               },
               "duration": {
-                "text": "11 mins",
-                "value": 671
+                "text": "2 mins",
+                "value": 138
+              },
+              "end_location": {
+                "lat": 37.7302682,
+                "lng": -122.4718101
+              },
+              "html_instructions": "Slight <b>right</b> onto <b>Junipero Serra Blvd</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "_reeF|kojVS@A@A?A?A?A@A?A?A?I?I?c@AkAEE?s@CcCEqDIyFMuBCA?WAOAU?QAcACgAAgFMoCGc@Ac@AkBEaEIcACC?U?aBEI?y@AiBE{BEYAgBEgAC}AA"
+              },
+              "start_location": {
+                "lat": 37.71695589999999,
+                "lng": -122.4724685
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "262 ft",
+                "value": 80
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 22
+              },
+              "end_location": {
+                "lat": 37.7309734,
+                "lng": -122.4718311
+              },
+              "html_instructions": "Slight <b>left</b> toward <b>Ocean Ave</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "eeheFxgojVCDC@EBC?K?A?O?[AI?IAG?WAKA"
+              },
+              "start_location": {
+                "lat": 37.7302682,
+                "lng": -122.4718101
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 mi",
+                "value": 325
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 94
+              },
+              "end_location": {
+                "lat": 37.7324359,
+                "lng": -122.4749177
+              },
+              "html_instructions": "Turn <b>left</b> at the 1st cross street onto <b>Ocean Ave</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "qiheF|gojVWCIXWp@CXENGN}@fCELm@`BCJQf@Sn@IZIR?@GN?@CFKVQf@"
+              },
+              "start_location": {
+                "lat": 37.7309734,
+                "lng": -122.4718311
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "2.3 mi",
+                "value": 3746
+              },
+              "duration": {
+                "text": "8 mins",
+                "value": 462
               },
               "end_location": {
                 "lat": 37.7660663,
                 "lng": -122.4773125
               },
-              "html_instructions": "Slight <b>left</b> onto <b>19th Ave</b><div style=\"font-size:0.9em\">Pass by Citi (on the right in 1.8&nbsp;mi)</div>",
-              "maneuver": "turn-slight-left",
+              "html_instructions": "Turn <b>right</b> onto <b>19th Ave</b><div style=\"font-size:0.9em\">Pass by Citi (on the right in 0.7&nbsp;mi)</div>",
+              "maneuver": "turn-right",
               "polyline": {
-                "points": "_reeF|kojVS@A@A?A?A?A@A?A?A?E@G@EBEBEBEBEDCDo@`@o@t@GFg@d@wBrBuApAuApAURKHCBCBIDKDOHMDA?IDG@I@IBI@E?G?G@E?wBGO?q@EmCGs@AiACmAAoCGgAEwCGiCEw@Cc@?g@Ak@A{@CO?UAK?WAg@CoACWAgACwACe@AM?k@Ak@Bg@@W@WBw@@u@Dc@@kBFk@D}CHcAB]@m@@k@B_ABoFN_@BoCF[@E?Q@Y?I@{ABq@BoDJaEJiBFgAD[@cBDuFPS?q@BeCDaBBA?cABQB]@iABgCHsBFK?q@@uHVaABS@c@@gABY@m@BkBFkBDcADcELg@@mIVc@@k@BaHRcABqHTs@Bu@@kGPc@Bc@@uDHu@B_ABc@B_@BW@g@B_@Ba@Bm@D]@]BM@U@C@S@S@O@Q@[@O@C@k@BG?E@sDLi@@eAD_FLs@BU@O@_ABs@@"
+                "points": "wrheFf{ojV]@m@@k@B_ABoFN_@BoCF[@E?Q@Y?I@{ABq@BoDJaEJiBFgAD[@cBDuFPS?q@BeCDaBBA?cABQB]@iABgCHsBFK?q@@uHVaABS@c@@gABY@m@BkBFkBDcADcELg@@mIVc@@k@BaHRcABqHTs@Bu@@kGPc@Bc@@uDHu@B_ABc@B_@BW@g@B_@Ba@Bm@D]@]BM@U@C@S@S@O@Q@[@O@C@k@BG?E@sDLi@@eAD_FLs@BU@O@_ABs@@"
               },
               "start_location": {
-                "lat": 37.71695589999999,
-                "lng": -122.4724685
+                "lat": 37.7324359,
+                "lng": -122.4749177
               },
               "travel_mode": "DRIVING"
             },
@@ -369,7 +441,7 @@
         }
       ],
       "overview_polyline": {
-        "points": "i~`cFjkdgVxLeN~G_IdIkHdAcArAcEnA_ChCyCrD}DpOqKdD}AdBCdBr@xEdGnHvLfM|OzP`W`IrJhDxChKfNxR~W~Ydb@jH~IjD|BpE|A`Fb@vKBt\\s@jKB|Cn@pCzAhCdDtAtDf@fEb@|G\\dCJfED|IA`MTdPh@vQAvb@^pk@_@lMaBrKqClMiAbPUl{@eBtLwBbHiTvg@oZ~s@u]`z@}FrNiBdHcAlGw@|LBdn@Fpb@Hlr@h@|KvApKjEf]nApOYhLoA`IoGbYm@hJFbLdDt][tMeD~N}NnUgGzLaPn_@oFpKyFbHaGlIaEzKwKj\\yElHcJ`HiI|GuGtKqD`NgB~KgD|L}FxJiHlGwH|DwJ`GcGvH_EhLgA|JIpLu@dP_Il`@aFfOkG|I}OlN_LvJgPtQyHbIuGvDkF|AaJrAqLrBuGvD}EbG{C|HsBnQgArL{A|HcFlL}DlJyA`JY~HmAbR{CfKkGhJoVbVma@pa@eIjIyI~KoDzImCbLwJ|c@uIp`@}DbOqEzHuI`JcHlLeCnJsCt[mCtMmMpUuO`WcNzQuSh\\_[ra@{e@|n@cHzKgErMyAnLKtNhAt[[jQgCvOiDpJmPjXwS`^aVbb@wG`KcK|HyJxCuJf@qMXwItA}LbFyH`GmXbXgK~EqKtAsKa@kMkAiNoAuGa@iHT_LtCeEzBoFxEiExFiDnHmB`HyC~Q_DdRsBnH}FpNqHzPoDnOoA`S{@lUuDzP}FxLoNrXsM|V{JnQsQbUmW~ZgIrIgMhIoItDuJ~FcKxIwEfCyTjHsSxGgPbHc^jR}QbQyTpUuSxSuPfLmThMyOvNkPjP}GhHqEtJ}CfMaEnJsGtHwIfIqL|KkI~Fw[bLuVzPmH`H{HzK_E|GoElF_JvIs]d]mP~QkNzQsJlLiE`DoF|BoEz@cGViKgAwJwCiK}FwDaCiG_CaGo@eEDiFz@}D|A_J`F}ZdQiH|FiHzIeUn[gIdHyG|CyMdF_IpFqQnO_GnIiGhNgEjGuJjGkTzK}EhDyF~GiMhQ_^bf@kCrBmElBoEr@uIDoQF_Ip@yJhCwIvEmXnSqEhBkDh@eKE{Wq@yKg@gJqB{Ku@cWLcRlDsb@dAwYsAgSG_RdA}RtE}HxGkFtEoA^ab@{@aR_@sZz@}rApDexAlEkMl@}Ob@qC|@{C~AoC^_Gt@wErBcAd@_CPqBwB}@sV`@_Pe@kAiAe@ao@jBi`@fA_Fe@uDiAaMcIeHwCiS]aq@]gDrAcBdG}BlIiGvHgExDcAnA"
+        "points": "i~`cFjkdgVxLeN~G_IdIkHdAcArAcEnA_ChCyCrD}DpOqKdD}AdBCdBr@xEdGnHvLfM|OzP`W`IrJhDxChKfNxR~W~Ydb@jH~IjD|BpE|A`Fb@vKBt\\s@jKB|Cn@pCzAhCdDtAtDf@fEb@|G\\dCJfED|IA`MTdPh@vQAvb@^pk@_@lMaBrKqClMiAbPUl{@eBtLwBbHiTvg@oZ~s@u]`z@}FrNiBdHcAlGw@|LBdn@Fpb@Hlr@h@|KvApKjEf]nApOYhLoA`IoGbYm@hJFbLdDt][tMeD~N}NnUgGzLaPn_@oFpKyFbHaGlIaEzKwKj\\yElHcJ`HiI|GuGtKqD`NgB~KgD|L}FxJiHlGwH|DwJ`GcGvH_EhLgA|JIpLu@dP_Il`@aFfOkG|I}OlN_LvJgPtQyHbIuGvDkF|AaJrAqLrBuGvD}EbG{C|HsBnQgArL{A|HcFlL}DlJyA`JY~HmAbR{CfKkGhJoVbVma@pa@eIjIyI~KoDzImCbLwJ|c@uIp`@}DbOqEzHuI`JcHlLeCnJsCt[mCtMmMpUuO`WcNzQuSh\\_[ra@{e@|n@cHzKgErMyAnLKtNhAt[[jQgCvOiDpJmPjXwS`^aVbb@wG`KcK|HyJxCuJf@qMXwItA}LbFyH`GmXbXgK~EqKtAsKa@kMkAiNoAuGa@iHT_LtCeEzBoFxEiExFiDnHmB`HyC~Q_DdRsBnH}FpNqHzPoDnOoA`S{@lUuDzP}FxLoNrXsM|V{JnQsQbUmW~ZgIrIgMhIoItDuJ~FcKxIwEfCyTjHsSxGgPbHc^jR}QbQyTpUuSxSuPfLmThMyOvNkPjP}GhHqEtJ}CfMaEnJsGtHwIfIqL|KkI~Fw[bLuVzPmH`H{HzK_E|GoElF_JvIs]d]mP~QkNzQsJlLiE`DoF|BoEz@cGViKgAwJwCiK}FwDaCiG_CaGo@eEDiFz@}D|A_J`F}ZdQiH|FiHzIeUn[gIdHyG|CyMdF_IpFqQnO_GnIiGhNgEjGuJjGkTzK}EhDyF~GiMhQ_^bf@kCrBmElBoEr@uIDoQF_Ip@yJhCwIvEmXnSqEhBkDh@eKE{Wq@yKg@gJqB{Ku@cWLcRlDsb@dAwYsAgSG_RdA}RtEs[q@sw@oAcAGk@tBmDfKQf@_AhA{Qf@ih@tAmb@jAmtAjEaW|@sE\\_DhBuCv@qF^mIhDoBd@eAWyAmCq@mXd@wK]aBo@k@cDEcw@`C{Rj@{DQ}Dy@qE}BqKgHiCcA_Ei@aUMk`@SkLHgCzBuAxH{AdE_EzF}I`J"
       },
       "summary": "I-280 N",
       "warnings": [],

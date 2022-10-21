@@ -24,27 +24,27 @@
       "bounds": {
         "northeast": {
           "lat": 37.8324731,
-          "lng": -121.9127544
+          "lng": -121.9127971
         },
         "southwest": {
-          "lat": 37.3162411,
-          "lng": -122.4961504
+          "lat": 37.3162019,
+          "lng": -122.4810476
         }
       },
       "copyrights": "Map data ©2022 Google",
       "legs": [
         {
           "distance": {
-            "text": "61.1 mi",
-            "value": 98364
+            "text": "58.8 mi",
+            "value": 94649
           },
           "duration": {
-            "text": "1 hour 14 mins",
-            "value": 4417
+            "text": "1 hour 8 mins",
+            "value": 4070
           },
           "duration_in_traffic": {
-            "text": "1 hour 19 mins",
-            "value": 4737
+            "text": "1 hour 16 mins",
+            "value": 4575
           },
           "end_address": "San José International Airport, 226 Airport Pkwy Suite 300, San Jose, CA 95110, USA",
           "end_location": {
@@ -106,190 +106,24 @@
             },
             {
               "distance": {
-                "text": "2.5 mi",
-                "value": 4055
+                "text": "7.0 mi",
+                "value": 11193
               },
               "duration": {
-                "text": "6 mins",
-                "value": 342
-              },
-              "end_location": {
-                "lat": 37.7714147,
-                "lng": -122.4795718
-              },
-              "html_instructions": "Continue onto <b>CA-1</b>/<wbr/><b>Veterans Blvd</b><div style=\"font-size:0.9em\">Continue to follow CA-1</div>",
-              "polyline": {
-                "points": "ydveFnynjVz@Ar@?R?`@?`@?d@@hA?X?V@dA?~@?`@?J@p@?jA@nB@bC@hB@xB@nC@b@@dA?b@?hA@`@?hA@`@?d@@bA?nB@P@T?L@V?J@N@L@N@PBD@VBD@NDXFXHHBPDVJFBf@TRJ\\RXPh@^\\THFj@^FFVPFB\\V^TPL^VBBDD@?^VfAt@HDTLd@V`@RLFD@\\NVHPHFBHD\\HNB\\HPDLBZFXBPB^@XBL@f@@V?V?P?b@ATAt@CpBIt@Cb@ApDKpAEVA~CIhBGhBEZAN?dAEJAdBGjDKb@A|GUp@CfACvEOb@Ap@CrJY^CH?H@B@D@FBFBDBDBBBDBDDDFDHDJDF@D@F@@@D@F@H@L?D?F?B?FAP?@CfACt@Cd@APE~@CXCTAPAZAJAN?NAF?P?N?T@R?H@P@VFx@B^?BBV@R@h@@Z@P?LF~B@j@@f@?Z?P@N@R?\\Br@?J?D?B@J?F?B@@?D@J@HBJ@@DPJRHNJNJLFFFFJFJFHFHBF@JBHBD?\\D"
-              },
-              "start_location": {
-                "lat": 37.80189,
-                "lng": -122.4695215
-              },
-              "travel_mode": "DRIVING"
-            },
-            {
-              "distance": {
-                "text": "0.1 mi",
-                "value": 207
-              },
-              "duration": {
-                "text": "1 min",
-                "value": 24
-              },
-              "end_location": {
-                "lat": 37.7719367,
-                "lng": -122.4817712
-              },
-              "html_instructions": "Turn <b>right</b> onto <b>Crossover Dr</b>",
-              "maneuver": "turn-right",
-              "polyline": {
-                "points": "ifpeFhxpjV_@r@OZEPA?ERCFETENCRCL?@ANCTAP?ZARALAl@EjA"
-              },
-              "start_location": {
-                "lat": 37.7714147,
-                "lng": -122.4795718
-              },
-              "travel_mode": "DRIVING"
-            },
-            {
-              "distance": {
-                "text": "0.5 mi",
-                "value": 814
-              },
-              "duration": {
-                "text": "2 mins",
-                "value": 132
-              },
-              "end_location": {
-                "lat": 37.7659289,
-                "lng": -122.478264
-              },
-              "html_instructions": "Turn <b>left</b> onto <b>Transverse Dr</b>",
-              "maneuver": "turn-left",
-              "polyline": {
-                "points": "sipeF`fqjVREFABABABA@CJIBGDODOLc@DQHUFUBE@CDKJU?AP[BEDGJMHILMhA{@PONMBCDCrAy@LINK@?TOHC\\SBAVKNEHAXEL?P?LBd@JPFHDHDJDXRFDTN~@j@d@OBAVMFEVOFC|@g@HGp@e@\\WRQLMLMHMR[HOBCBC@ADCLE"
-              },
-              "start_location": {
-                "lat": 37.7719367,
-                "lng": -122.4817712
-              },
-              "travel_mode": "DRIVING"
-            },
-            {
-              "distance": {
-                "text": "1.0 mi",
-                "value": 1636
-              },
-              "duration": {
-                "text": "3 mins",
-                "value": 181
-              },
-              "end_location": {
-                "lat": 37.7654684,
-                "lng": -122.4960117
-              },
-              "html_instructions": "Turn <b>right</b> onto <b>Martin Luther King Jr Dr</b>",
-              "maneuver": "turn-right",
-              "polyline": {
-                "points": "adoeFbppjVDX?`@?F?BCNAHIZQn@Od@K\\CHSl@Sl@Md@Mh@GVEXEVGZANCNALARAR?JAZ?DA\\?NAF?X?T?L@N?N@ZHl@R|ADb@BN@R?H@F?P?P?N?BAH?NALCZ?@?@ERCRABETGP?@EJGPK^CJADELALAFAH?J?R?@?@?F@J@T?@?F@L@H@L@FBRJb@BJFTVl@\\r@BD`@z@d@~@Td@LZBDL^FR@FH`@@FHp@@FJbA@RDd@H|@?BBX@LDh@Bb@DdA?NBjB?n@?fBAHAj@AXCt@AVAh@?@El@CxACt@?DCl@Ad@Ad@?^@b@@z@?N@J@`@B^D~@"
-              },
-              "start_location": {
-                "lat": 37.7659289,
-                "lng": -122.478264
-              },
-              "travel_mode": "DRIVING"
-            },
-            {
-              "distance": {
-                "text": "2.5 mi",
-                "value": 4006
-              },
-              "duration": {
-                "text": "7 mins",
-                "value": 430
-              },
-              "end_location": {
-                "lat": 37.72961919999999,
-                "lng": -122.4935734
-              },
-              "html_instructions": "<b>Martin Luther King Jr Dr</b> turns <b>left</b> and becomes <b>Sunset Blvd</b>",
-              "polyline": {
-                "points": "eaoeF`_tjVB^d@Cb@AvAEb@Ab@Ad@AdAGx@ELAb@AJAR@L?H?b@Ah@AD?|EO~@CFA\\A^AFAp@A|@EpAE~AEVAP?PAhCIz@CpAEx@CN?RA|BGhEOH?NAT?nCIrDMB?TAVAfDKhCIj@?`@CnCIbEMzCIB?l@CVAB?fACbACdBGlAE~AE~AE@?dAElAEpAEdACfAExGSj@CF?d@AZAx@C|FQb@An@Ct@C~@CBAdDIb@AbAEl@AfCIhBGL?L?p@CT?pBGj@A~@E\\ANA|@C~@Eb@AN?`@C@?RAtBGnCI~AExAEb@ArDMd@E|@C@?LALETI"
-              },
-              "start_location": {
-                "lat": 37.7654684,
-                "lng": -122.4960117
-              },
-              "travel_mode": "DRIVING"
-            },
-            {
-              "distance": {
-                "text": "1.5 mi",
-                "value": 2393
-              },
-              "duration": {
-                "text": "3 mins",
-                "value": 203
-              },
-              "end_location": {
-                "lat": 37.7155975,
-                "lng": -122.4852717
-              },
-              "html_instructions": "Continue onto <b>Lake Merced Blvd</b>",
-              "polyline": {
-                "points": "caheFxosjVHCHIHIFKNWP_@Re@Vi@HUFODQBIBOBODY?]?[AOCUAKCOEOEOCIEIAEGMEIEGKMWWMMa@_@US}@y@QQEEEGEGEGEKAEEGEOAKCKCMAMAM?G?K?E?E?E?O@G?G@KBK@IBOFWLk@?AJ_@Hc@b@gBFUDQl@wCPaABQDYFW@GBGDOFQBGDKLSNQJKHGDEDC`@]PKf@]z@o@b@[b@[PONKFGPKNIPGLCJCPCDAH?X?RBF@H@H@JD`AXl@R`AZjCx@NDZJl@Tp@R\\FF@TDJ@pC@|@?bDAb@?fA?b@?tC?fA@L?v@@`D?fAAH?P@p@AnA?r@A^?Z@vEHT@tBH"
-              },
-              "start_location": {
-                "lat": 37.72961919999999,
-                "lng": -122.4935734
-              },
-              "travel_mode": "DRIVING"
-            },
-            {
-              "distance": {
-                "text": "0.8 mi",
-                "value": 1282
-              },
-              "duration": {
-                "text": "2 mins",
-                "value": 110
-              },
-              "end_location": {
-                "lat": 37.7127337,
-                "lng": -122.4723965
-              },
-              "html_instructions": "Keep <b>left</b> to continue on <b>Brotherhood Way</b>",
-              "maneuver": "keep-left",
-              "polyline": {
-                "points": "oieeF|{qjVFCDAB?B?F@f@@lABH?B?DABABABAHIBq@?g@@m@BgC@{AD}C@e@?C@}@@eA?a@@m@@_@AG@y@AC?IBqA@WBqB?o@@U?S@wACoC?wAAY?Y?S?g@?C?E@O@e@D]?ADc@Fc@FYH]^mAj@uABGRg@\\y@L]N]BGDMPe@DOJ]\\mAFUDM\\kAJ]FSBQBI"
-              },
-              "start_location": {
-                "lat": 37.7155975,
-                "lng": -122.4852717
-              },
-              "travel_mode": "DRIVING"
-            },
-            {
-              "distance": {
-                "text": "0.3 mi",
-                "value": 515
-              },
-              "duration": {
-                "text": "1 min",
-                "value": 30
+                "text": "18 mins",
+                "value": 1105
               },
               "end_location": {
                 "lat": 37.7084307,
                 "lng": -122.471323
               },
-              "html_instructions": "Slight <b>right</b> to merge onto <b>CA-1 S</b>/<wbr/><b>Junipero Serra Blvd</b> toward <b>San Jose</b>/<wbr/><b>I-280 S</b>",
-              "maneuver": "ramp-right",
+              "html_instructions": "Continue onto <b>CA-1</b>/<wbr/><b>Veterans Blvd</b><div style=\"font-size:0.9em\">Continue to follow CA-1</div><div style=\"font-size:0.9em\">Pass by Chase Bank (on the right in 3.7&nbsp;mi)</div>",
               "polyline": {
-                "points": "qwdeFnkojVHIBCBCFI?ABCTY@Gj@s@h@o@FGLITMDE^SLAL?P?ZAvB?|C?H?NAD?D?~B@\\@X@~@H"
+                "points": "ydveFnynjVz@Ar@?R?`@?`@?d@@hA?X?V@dA?~@?`@?J@p@?jA@nB@bC@hB@xB@nC@b@@dA?b@?hA@`@?hA@`@?d@@bA?nB@P@T?L@V?J@N@L@N@PBD@VBD@NDXFXHHBPDVJFBf@TRJ\\RXPh@^\\THFj@^FFVPFB\\V^TPL^VBBDD@?^VfAt@HDTLd@V`@RLFD@\\NVHPHFBHD\\HNB\\HPDLBZFXBPB^@XBL@f@@V?V?P?b@ATAt@CpBIt@Cb@ApDKpAEVA~CIhBGhBEZAN?dAEJAdBGjDKb@A|GUp@CfACvEOb@Ap@CrJY^CH?H@B@D@FBFBDBDBBBDBDDDFDHDJDF@D@F@@@D@F@H@L?D?F?B?FAP?@CfACt@Cd@APE~@CXCTAPAZAJAN?NAF?P?N?T@R?H@P@VFx@B^?BBV@R@h@@Z@P?LF~B@j@@f@?Z?P@N@R?\\Br@?J?D?B@J?F?B@@?D@J@HBJ@@DPJRHNJNJLFFFFJFJFHFHBF@JBHBD?\\DT?FAFAFCz@_@LGd@S@AJGRKTINI\\On@WVMHEBALG@?XKFCNEPE@?VEXEPC@?^Cf@CVA^APATAPCNCLAZIBAXGNGJETKNGFC@ARMHGFENIROPKRKLGBAJELEPCVGRC~AERANARA|@CdFO^AT?TATAL?z@EV?hAEr@E|@GH?LAJANARAF?HAPA@?lG[b@C|CKvEMv@ClAEr@Cj@AlCI`IUr@CpAE`HSz@CtAE`FOtCIrBGv@Cr@CpAEB?jBGfAEb@AdACxHUf@CRA\\A\\AtEMt@AVATAd@Cj@Ab@AnCEV?JAhAE~ACbFOp@CN?bAEfACdDKp@CL@H?rACp@AdDGfAEv@CpACLAHATCLAHAXAn@CpBGf@AbBG|@AvCK~BIhAEZAF?~@CX?NAJ?J@R?`@@X@Z?`ABv@BV?`AB\\@B?F?B@L?^BL@H?F@D?pABb@@J?T?p@@J?lDJlBBJ?|HPX@dEJzABtAD`AB^?L?f@@j@?J?R?B?D?DAF?HAFAFARENGHEFCDCDCNKBCHELM\\]h@c@XYz@y@zAwAnAiAfBaBt@u@v@G`@GXGz@Uh@M~Ae@dD{@DAPGJA`@Kj@OZG`@IXGd@GLCNCf@Gn@IVAB?PCH?\\CpAGzAELAL?P?ZAvB?|C?H?NAD?D?~B@\\@X@~@H"
               },
               "start_location": {
-                "lat": 37.7127337,
-                "lng": -122.4723965
+                "lat": 37.80189,
+                "lng": -122.4695215
               },
               "travel_mode": "DRIVING"
             },
@@ -539,7 +373,7 @@
         }
       ],
       "overview_polyline": {
-        "points": "}c|eFpaqjVnHyEzKw@|\\oBrqAsHxHk@vE}B|D}DjLqM|GeKbCuFzBcCdb@E~ZPfGdApVpN`Kl@`h@}Apd@aAz@rBK~VV`MfBbDtAZmAbDOvBVnCpBcFvHyFlCo@fCbA~Bh@~@g@pEiDd@s@ZLq@xD{BzKd@pKOpEy@jE`BbHfC~Ft@~GJzSC|Qh@ZzBGrDMfEKb[_A`c@qA|mAoDf}@mCxAu@hBiEDeDi@aBkFcGCiDxDwQvHiHvBiAjBBbLpDlNd@j\\@vONj@kr@xDgOpDaL|ByC~B{@tTVpZzAz[e@vR_DtQw@zSHfMjC`VbAhYd@zFs@bGkCnQ_NtL_HxJ_DpI_AxQKnLQzDs@rH}DnZka@nLgP~J}MrJmGxPyI|KyHzKiTpFkI|FuFfT{PfTsIzGwEjFcGjUk\\rH{HfJeGn^kSdNeDxGNbGxAhNjItJfEnKxBlJTzMoC|LkJn_@of@zh@kh@pM}MbMoQpHuHbKyG|_@_RhNeHpIyHrV{VfEqH`D}KjCwJ|E_IhPiP`Q}PhRsLdUoNrRaQxd@eb@rWyQrWwOlPaHb\\kKtMaIpKgIrMuFjKwF~J}IzVuXnQsVhPa[~d@kz@|CyMx@kM~@}^rDyP~HuQpDuI|EaRdGc_@~HwQbHmHlMaG`OcAp\\rC`VbApKqBbK{Ft\\c]|LeGdH}AlX}@bIoAxKeFfHgHhGgKhXse@fOeWdSk]|D}NzAqP{Awi@`@yMzCyO~F_MnKgOnTiYr[aa@tYec@di@yy@hH}PtBuQxAkPpD_NvHyKjGsGnEqHpDeMbIy^zLgj@hEyO~DsHrMsMfZaZhZwZpIgJlD}GjCmK|@aMnAeT~CmJ|GeO~BqMpAoPp@yFdBkGhGiJfJaFpWuDdIkCdIyGpGuHxQeSpVmT`H}JxEoN|Imd@tAy\\lAeJzEcM|FsGvI_FrH{D~IuIpDgH|CsMnDaSvG_OdLuKzK}ItEsIdCuHdMi^dPaT|LuY|NuY|MsTxC{I`B{Ny@gSwBiVXaO|Ge\\bBaM?wNwDq[oEkb@S}~@A_m@Vwc@nEwTdNs\\v]}y@hV}k@fTmi@|BgQBoWF}`@bAeNrD{PvAeNWcx@G{c@{@}o@Bq[QmDkBeHeD_EaD_BwE_@yCZsO|A_Kd@kD?kQAqJ{BwGmFaIcLuVs]}Ue\\oK{L}NkRiLqRwD_JFsBpA}BhB[lBbAD~@cBbCiClD}BdDaGfImANw@kCvAeFlAaEOoD}JeRoCoCcBa@kC\\wEbD{LpIiKvKsP~K_OfKmIhTp@fBbDoD"
+        "points": "}c|eFpaqjVjCkCbDmAzKw@|\\oBrqAsHxHk@vE}B|D}DjLqM|GeKbCuFzBcCzESh[L~ZPfGdAlKzGbJtE`Kl@`h@}A|a@oArALz@rBe@vKXfJV`MfBbDtAZ~CeAnGiCvI}@xEeCdm@mChbB{Ej{@}B`Xi@pJVnh@dAhF]~BmB`GuF|CwCxAO~EqAhEgAhFeAdUm@xS|@`Tt@xPUpGMpDS~Dk@xJ_CrQYrR\\`OvCz_@z@lOAzFyAfG}DlQuM|JiFhKmCvIm@xUGdIk@|FuBfFsEhZ{a@dMeQjHcJlNkInPoIfHeG`LeUhGoI~FkFvJ{ItI}ExSuIfG_FhF{G~Us\\lH{GxLiHx\\_RdGyA|EOtIbAlC`ApOjJhJlDbLhB|KOhLsDtEcD`GeHtP{T|L}Njh@yg@|EwErHqJ`KkNzHgHpL{Gt`@qRpKaGrJiJbUyUxD_ItCcLxCmJnFkH|P_QnPaPrRmLxTsN|RmQde@ob@dZcShXuOvR}G`WkI~OmLxImF|LgFnJyFlK_KvVuXbQaWhSe`@bQc[tGkKlFuLhCaNf@kNJyO~AePlDiMlJySvEgNzC}O|F}[jCqG`EmGjJ_I~DiBnHcB`NAvZnC~Jx@zJUdL_DxJmH`RmSdJeHdKcE`HmAhXw@hKcCfJwFhGgHrGcL~Wae@bPkXfJaO`FiKbEsQ|@iOaBaj@x@yMjD}NnI_OnIsLxUuZb\\{a@xXib@ti@}z@hFkP~AsPjBkQtEuMvP_SbEcItDeOpHc]~M{m@xCeJ`FoIlPyOlYqY`YoYdIwJhCaG`CeLv@sQzAiOnG_OrCaH~BqM|AcS`BwIvAmDtHcJxJsDrVmDtIsDjQkR|QwRvU_TnHgMrD_NfEwSdC}OnAy[jB_KvFcL~FoFtJgFlGmD`IuIhDsHhD{P|DaRhHsMbOsLjHiH~DwIxDuLjFkPxD_IlPuTnM_[vRk^`IgNpCaK`AkOoCc]i@cKv@mP~GyZpAeM]oOeEu\\mC{Tg@cOMg`AAuo@?eQh@oHrBkLfDwJ`Py_@p]uy@pSmf@dKkVpG}RzAgREwZTu]~A_MxCoNpAqP[g{@Um`@u@oVPyYQ_Zq@uEkDuGmCoBmEeAsLdA}LnAyTH_MUaJeDiGqG{H_LuWo^mU_\\eKmKcQsVqG_KgAqCkBaEKeB`@aCfBqArBLt@n@D~@cBbCiClDm@z@qIpLmANo@wAI{@H}AvBcEd@yEg@sCuCgGoHmKuAs@}CC{JpGmLjJoKdKqShMiJ`IaCrGsCnIB~@^b@`@@nCmD"
       },
       "summary": "I-280 S",
       "warnings": [],
