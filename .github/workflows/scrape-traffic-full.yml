@@ -6,7 +6,7 @@ on:
   - cron:  '*/5 * * * *'
 
 jobs:
-  shot-scraper:
+  git-scraper:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
