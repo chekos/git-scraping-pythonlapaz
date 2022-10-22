@@ -2,8 +2,7 @@ name: Scrape traffic (full)
 
 on:
   workflow_dispatch:
-  schedule:
-  - cron:  '*/5 * * * *'
+
 
 jobs:
   git-scraper:
