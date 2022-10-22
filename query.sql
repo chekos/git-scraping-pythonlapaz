@@ -1,4 +1,4 @@
-with item1 as (
+with trafico_de_ida as (
   select
     commits.commit_at as t,
     duration_in_traffic / 60 as mins_in_traffic
@@ -9,7 +9,7 @@ with item1 as (
   order by
     commits.rowid
 ),
-item2 as (
+trafico_de_vuelta as (
   select
     commits.commit_at as t,
     duration_in_traffic / 60 as mins_in_traffic
@@ -21,9 +21,9 @@ item2 as (
     commits.rowid
 )
 select
-  datetime(item1.t, '-7 hours') as t,
-  item1.mins_in_traffic as de_ida,
-  item2.mins_in_traffic as de_vuelta
+  datetime(trafico_de_ida.t, '-7 hours') as t,
+  trafico_de_ida.mins_in_traffic as de_ida,
+  trafico_de_vuelta.mins_in_traffic as de_vuelta
 from
-  item1
-  join item2 on item1.t = item2.t
+  trafico_de_ida
+  join trafico_de_vuelta on trafico_de_ida.t = trafico_de_vuelta.t
