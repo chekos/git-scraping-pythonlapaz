@@ -3,7 +3,7 @@ name: Scrape traffic (slim)
 on:
   workflow_dispatch:
   schedule:
-  - cron:  '*/2 * * * *'
+  - cron:  '* * * * *'
 
 jobs:
   git-scraper:
