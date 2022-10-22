@@ -9,7 +9,15 @@ jobs:
   shot-scraper:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0 # Needed by git-history
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.10"
+        cache: "pip"
+    - run: pip install -r requirements.txt
     - name: Scrape
       env:
         GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
@@ -34,6 +42,10 @@ jobs:
         # Golden Gate Bridge to San Jose Airport
         curl "https://maps.googleapis.com/maps/api/directions/json?origin=place_id:ChIJw____96GhYARCVVwg5cT7c0&destination=place_id:ChIJ91RM4jLLj4ARPQhTsyC5m3o&departure_time=now&key=$GOOGLE_MAPS_API_KEY" | jq '{id: "goldengate-sanjose", duration_in_traffic: .routes[0].legs[0].duration_in_traffic.value}' > goldengate-to-sanjose-slim.json
         sleep 3
+    - name: Build SQLite Database
+      run: |
+        rm -f traffic.db
+        sh build-db.sh
     - name: Commit and push
       run: |-
         git config user.name "Automated"
