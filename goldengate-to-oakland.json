@@ -36,15 +36,15 @@
         {
           "distance": {
             "text": "26.6 mi",
-            "value": 42746
+            "value": 42753
           },
           "duration": {
             "text": "43 mins",
-            "value": 2564
+            "value": 2571
           },
           "duration_in_traffic": {
-            "text": "38 mins",
-            "value": 2281
+            "text": "37 mins",
+            "value": 2247
           },
           "end_address": "Oakland International Airport (OAK), 1 Airport Dr, Oakland, CA 94621, USA",
           "end_location": {
@@ -59,20 +59,20 @@
           "steps": [
             {
               "distance": {
-                "text": "4.0 mi",
-                "value": 6371
+                "text": "3.9 mi",
+                "value": 6224
               },
               "duration": {
-                "text": "7 mins",
-                "value": 411
+                "text": "6 mins",
+                "value": 384
               },
               "end_location": {
-                "lat": 37.799174,
-                "lng": -122.4409957
+                "lat": 37.7989588,
+                "lng": -122.4426455
               },
               "html_instructions": "Head <b>southeast</b> on <b>US-101 S</b><div style=\"font-size:0.9em\">Toll road</div>",
               "polyline": {
-                "points": "}c|eFpaqjVRYZa@NM\\]TQJIDADEVORKTKLGPGPGVGVE`@GFATAb@E`@ClBMJAPAF?LAD?XCZAHAPAZCXAB?TADATA^CPA^CRA^CTCL?NApAIzBOVAVCVCL?VCNAB?^Cb@Cb@CF?nAIpAINAJ?XCZAXCXALAJAJ?LALAd@CXCJAf@CdBMh@CXCXAJAZA^CfCOf@Eb@CNALA|BMZCJAj@CB?b@Er@E~@E|@GVAXCXAZC`AGd@CLALAXAVCXAt@EXCJ?~@GzIg@TALAn@EtCORAVCVAZCTAb@Cr@E|@GLAp@E|@EZAb@Cb@CJAlCOXCTCTCPE^Gb@O@?z@a@LIXSLI^[NOHGDEBAPONQLKDETWJKBELKBEBCf@i@Z]Zc@h@m@V[JMLQ@A\\[FIRQLMv@y@j@o@LMzAeB@Ah@q@X_@\\g@HOV_@f@{@b@w@FMLSLWLSFSDKPc@@APg@L[FSZ_ARu@HU@GDODODQDOFY@EFSBMDSDODU@G@CBOBKBS@CD[BOBSBMBQ@MBS@KDU@KD_@BU@MD_@BSBKBU?G@EBS@IBS@KD[@OBWBODa@@G@M@IBQ@KBQ?GBSBK@OBOBS@GBW@KBW@KBQ@K@I^aDReBLiAHw@Ds@Bg@@[?]@]?c@?U?MASAW?KAOAIASAMASAMCQAKCSCKCSCKCQCKESAIESCKEQCKCGAICIEQACAIEQEMGYCIAICKEQAAAIEQCKEQCKCMAACKESCKEQCIESCGEUGUMq@Ms@Kq@EWAMIg@Eg@E_@C_@Ee@Cq@Es@Ey@A[CY?k@Aw@Ac@A[CUAg@C_@AQCSAUE]AQCQC]C[CY?YAU?k@?C@Q@G@W@M@E@OJq@FSBKBIFUDMBGDIBEFOFMHMDGDGHMNSX]HKt@_At@{@Xa@NWT[Zi@`@s@R[FIHOb@s@PYHMt@kAVa@bAcBJO\\i@t@oALSHMbAaBf@y@FKFQDKF[BK@M?A@M?O?A?KCOAUAUEg@Es@Ek@Ey@MaBa@kGG}@"
+                "points": "}c|eFpaqjVRYZa@NM\\]TQJIDADEVORKTKLGPGPGVGVE`@GFATAb@E`@ClBMJAPAF?LAD?XCZAHAPAZCXAB?TADATA^CPA^CRA^CTCL?NApAIzBOVAVCVCL?VCNAB?^Cb@Cb@CF?nAIpAINAJ?XCZAXCXALAJAJ?LALAd@CXCJAf@CdBMh@CXCXAJAZA^CfCOf@Eb@CNALA|BMZCJAj@CB?b@Er@E~@E|@GVAXCXAZC`AGd@CLALAXAVCXAt@EXCJ?~@GzIg@TALAn@EtCORAVCVAZCTAb@Cr@E|@GLAp@E|@EZAb@Cb@CJAlCOXCTCTCPE^Gb@O@?z@a@LIXSLI^[NOHGDEBAPONQLKDETWJKBELKBEBCf@i@Z]Zc@h@m@V[JMLQ@A\\[FIRQLMv@y@j@o@LMzAeB@Ah@q@X_@\\g@HOV_@f@{@b@w@FMLSLWLSFSDKPc@@APg@L[FSZ_ARu@HU@GDODODQDOFY@EFSBMDSDODU@G@CBOBKBS@CD[BOBSBMBQ@MBS@KDU@KD_@BU@MD_@BSBKBU?G@EBS@IBS@KD[@OBWBODa@@G@M@IBQ@KBQ?GBSBK@OBOBS@GBW@KBW@KBQ@K@I^aDReBLiAHw@Ds@Bg@@[?]@]?c@?U?MASAW?KAOAIASAMASAMCQAKCSCKCSCKCQCKESAIESCKEQCKCGAICIEQACAIEQEMGYCIAICKEQAAAIEQCKEQCKCMAACKESCKEQCIESCGEUGUMq@Ms@Kq@EWAMIg@Eg@E_@C_@Ee@Cq@Es@Ey@A[CY?k@Aw@Ac@A[CUAg@C_@AQCSAUE]AQCQC]C[CY?YAU?k@?C@Q@G@W@M@E@OJq@FSBKBIFUDMBGDIBEFOFMHMDGDGHMNSX]HKt@_At@{@Xa@NWT[Zi@`@s@R[FIHOb@s@PYHMt@kAVa@bAcBJO\\i@t@oALSHMbAaBf@y@FKFQDKF[BK@M?A@M?O?A?KCOAUAUEg@Es@Ek@Ey@MaB"
               },
               "start_location": {
                 "lat": 37.8324731,
@@ -87,31 +87,31 @@
               },
               "duration": {
                 "text": "5 mins",
-                "value": 297
+                "value": 311
               },
               "end_location": {
-                "lat": 37.7864018,
-                "lng": -122.4384087
+                "lat": 37.7861867,
+                "lng": -122.440126
               },
-              "html_instructions": "Turn <b>right</b> onto <b>Scott St</b>",
+              "html_instructions": "Turn <b>right</b> onto <b>Divisadero St</b>",
               "maneuver": "turn-right",
               "polyline": {
-                "points": "ysueFfgijVZEd@I~@Kb@Gb@GdAMb@Eb@GFAb@EhBUb@GH?`@GjBU`@EHAj@Ib@EdAOb@Eb@GdAMb@Eb@GLAb@Eb@GdAMh@I`@Eb@EdAOb@Eb@GdAMb@G`@G`@EfAMZEh@G`@GjBS`@GHA`@EjBUB?\\Gb@GhBUn@GhBUnAO"
+                "points": "orueFpqijVJATCLADANAJ?p@IFAZEb@GhBUb@GF?b@G`@EfAM`@G@?FAHA`@GjBU`@Gb@Eb@GdAK@?`@GFAb@GfAMJCTCLATCLA`BSNCt@INC^Eb@GTCLAb@G`@GNAB?NCr@IRC`@Gb@E`@GVCdAMNCRCJA\\E`@GTCPB@?B?\\Eb@Gb@Eb@G@?jAOb@Ep@Ib@G`@Eb@Gb@EzASzAQ"
               },
               "start_location": {
-                "lat": 37.799174,
-                "lng": -122.4409957
+                "lat": 37.7989588,
+                "lng": -122.4426455
               },
               "travel_mode": "DRIVING"
             },
             {
               "distance": {
-                "text": "0.7 mi",
-                "value": 1169
+                "text": "0.8 mi",
+                "value": 1322
               },
               "duration": {
                 "text": "3 mins",
-                "value": 162
+                "value": 180
               },
               "end_location": {
                 "lat": 37.7880754,
@@ -120,31 +120,31 @@
               "html_instructions": "Turn <b>left</b> onto <b>Bush St</b>",
               "maneuver": "turn-left",
               "polyline": {
-                "points": "_dseF`whjVi@gIWsDQuCEk@AMEm@IuAEo@ACIuAEk@KyAIqAMoB?EC]e@cHEk@QqCCa@IsACUCk@Em@Ee@GeAIgAAQCi@OqBOyBKyA"
+                "points": "ubseFxaijVAQGgAS_DK}Ai@gIWsDQuCEk@AMEm@IuAEo@ACIuAEk@KyAIqAMoB?EC]e@cHEk@QqCCa@IsACUCk@Em@Ee@GeAIgAAQCi@OqBOyBKyA"
               },
               "start_location": {
-                "lat": 37.7864018,
-                "lng": -122.4384087
+                "lat": 37.7861867,
+                "lng": -122.440126
               },
               "travel_mode": "DRIVING"
             },
             {
               "distance": {
-                "text": "1.0 mi",
-                "value": 1670
+                "text": "0.8 mi",
+                "value": 1364
               },
               "duration": {
-                "text": "4 mins",
-                "value": 266
+                "text": "3 mins",
+                "value": 208
               },
               "end_location": {
-                "lat": 37.7732481,
-                "lng": -122.4222507
+                "lat": 37.775965,
+                "lng": -122.4228143
               },
               "html_instructions": "Turn <b>right</b> onto <b>Gough St</b>",
               "maneuver": "turn-right",
               "polyline": {
-                "points": "onseF|dfjVRAhAM|ASj@IZEt@KVE`@Gf@ETETCTEr@IZCnBWHAHAv@Ir@IhBUXEb@EJAh@IDAx@K`@ERANCPC`@Gv@INCJANCTCZEj@GdAMTCb@GPC\\E`@EBAFAJCj@IzAQ|AS`@EbAMLA@?^Ed@G|AQzASNARCx@Kx@IPCNCPAbAMFA`@Eh@IPCzAQjAOPAb@Iv@Kn@IRCFA"
+                "points": "onseF|dfjVRAhAM|ASj@IZEt@KVE`@Gf@ETETCTEr@IZCnBWHAHAv@Ir@IhBUXEb@EJAh@IDAx@K`@ERANCPC`@Gv@INCJANCTCZEj@GdAMTCb@GPC\\E`@EBAFAJCj@IzAQ|AS`@EbAMLA@?^Ed@G|AQzASNARCx@Kx@IPCNC"
               },
               "start_location": {
                 "lat": 37.7880754,
@@ -154,36 +154,36 @@
             },
             {
               "distance": {
-                "text": "430 ft",
-                "value": 131
+                "text": "404 ft",
+                "value": 123
               },
               "duration": {
                 "text": "1 min",
-                "value": 56
+                "value": 47
               },
               "end_location": {
-                "lat": 37.7729946,
-                "lng": -122.4236373
+                "lat": 37.775785,
+                "lng": -122.4241999
               },
-              "html_instructions": "Turn <b>right</b> onto <b>Haight St E</b>",
+              "html_instructions": "Turn <b>right</b> onto <b>Fell St</b>",
               "maneuver": "turn-right",
               "polyline": {
-                "points": "yqpeF`rejVNBDj@Fx@JdBHdA"
+                "points": "wbqeFpuejV@ZF|@Dl@JvADf@@L"
               },
               "start_location": {
-                "lat": 37.7732481,
-                "lng": -122.4222507
+                "lat": 37.775965,
+                "lng": -122.4228143
               },
               "travel_mode": "DRIVING"
             },
             {
               "distance": {
-                "text": "449 ft",
-                "value": 137
+                "text": "0.3 mi",
+                "value": 452
               },
               "duration": {
-                "text": "1 min",
-                "value": 48
+                "text": "2 mins",
+                "value": 117
               },
               "end_location": {
                 "lat": 37.7719292,
@@ -192,11 +192,11 @@
               "html_instructions": "Turn <b>left</b> onto <b>Octavia Blvd</b>",
               "maneuver": "turn-left",
               "polyline": {
-                "points": "eppeFvzejV@RBPPAVEj@IZENCLEBALE\\OLG"
+                "points": "saqeFf~ejV@T@PPAh@GPCPCfAMPCREr@INCrAONCPCtC]FAHAPAVEj@IZENCLEBALE\\OLG"
               },
               "start_location": {
-                "lat": 37.7729946,
-                "lng": -122.4236373
+                "lat": 37.775785,
+                "lng": -122.4241999
               },
               "travel_mode": "DRIVING"
             },
@@ -418,7 +418,7 @@
         }
       ],
       "overview_polyline": {
-        "points": "}c|eFpaqjV|AgBl@c@nAo@rA]pGg@hCOnNy@lMu@rc@kC~l@gD`FYvAQbAW|@a@tAcArAmAhBoBtCmDtGcHbB{BlBcDrAsChB{Fl@gCz@sFjBiPTwBjAiKJuCCmDS_CaAwEcAmEg@yBgAcHe@{HQsG]_EA_BF_AV{ATy@r@sArEaGnD}FhG}J|BuDXeABm@Es@qAcSjUqCrk@_HnDe@xC]nAOi@gIi@iIGy@WwD}AeVy@iMcAoOrJmAfSaC`MyA~OoBpTiCxDg@bAMV@b@pGDd@h@GdBY|@_@bCuA`Au@`@i@n@aA`@_Af@oBPqAH{CFeDd@}Fj@oHHwHPcRLeDVsDv@wIP{ECmEM}@[w@g@g@o@W_AGkAHqA`@w@N}AbAkB|@{A\\_BLkCOo@OmAa@kAi@_C}AiCeCgA{AgAoBuB}EoDsIw@cAaBcCgFsGgKgM_FgGkCoD_CaDmBuD_CgFu@iAkBwBkEqE{GkHaF_GeKiL_EeEcDqDyEoFmGcHcYwZaNeOuGaHkH}HsWeYcJ}Jy@u@gBsBiEeGmC}EmJ{RkImQeB_FiAsE[}Aq@}EeBoToEwk@oCo]oAyOs@mLe@cLm@sQo@uL}@iKkC}WRg@qAmQeAiL]kDi@mH_@mIOyCGwDD{ATeCx@_EhGaRtF}Oz@_Bp@y@`Aw@n@]dA_@nASjBCbBT`Bn@rAbAtIhKxE|FlAtAjAzAlCrDbDrDtAhAvBtAzAr@bBl@xBf@nCXpBHtBCdDWbDu@fCaAnBeAzCaCpCaD`C}DzAwD~@eDj@wCh@{ENiE@_CGyC_@yEcAkLw@{ISqGBwFVaF`@eEn@kDvCmLxLqb@dSkr@zAiF~BoHvBiEtB_DdJyK`EsFrBsEj@iBt@sDV{BtBqUpAuJX_BlBsJfAqEbDkLXy@lC_HtEoKxC_H~A_DnB{C`AiAhAaAfAq@xB}@jEgAzCw@jEqAtCuAbDaCzB}B`CoDlBaElAsDhA}EpDsOdDqNnCoLpA}DpByDxBuCxAuAvB}AtJyGzF}DzEsDnOqM`Q{NbWcTfWiT~n@ci@`]mYtZiWfA}@bByAj@E\\SlAw@|@k@j@QjAMbDVd@ANE~@i@Pp@pBtGh@hBpBbHr@nB^tAj@zBh@fB~BvHr@zBd@tAE^J`@Xp@Pn@v@~BdAnBtAlA\\P`AZdANx@@fDU~Fg@hDDt@F`Cd@rBp@pAp@dAp@"
+        "points": "}c|eFpaqjV|AgBl@c@nAo@rA]pGg@hCOnNy@lMu@rc@kC~l@gD`FYvAQbAW|@a@tAcArAmAhBoBtCmDtGcHbB{BlBcDrAsChB{Fl@gCz@sFjBiPTwBjAiKJuCCmDS_CaAwEcAmEg@yBgAcHe@{HQsG]_EA_BF_AV{ATy@r@sArEaGnD}FhG}J|BuDXeABm@Es@S}CS{C`@En@ExBYbHy@jOkBhM{AzEk@tBW~@Mf@?fAMtC]zKqAyDwl@mCab@e@gHKyARAfDa@tCa@tBWtIcA~HaAjLuArTmCvC[`@GHxAXzDBf@z@I|BYjDc@~G{@|@QbAc@pCaBp@m@`@g@h@}@h@sA`@kBL_AHyCFeDt@wIT}CHoCF{GPeQPuDXqDZuCDs@LaBPyF@kAIyBQ{@_@s@k@c@k@O{AAq@JyAf@a@Dm@`@sAt@_Bp@}AXe@DgB@eCe@wCoA}B}AaA}@kAoAgAaB_AgBcCyFaDwHyAqBkA}AoF{G_LaN_KwMeA}AkDgHy@mBiA{AgIuIyGqHmFeG{J_LcFeFcCyCcEsEaI{IuXgZuMwN}FgGeHyH_WqXaJyJmBkBmA{A_E_GiDoGyJsSqEqJmBsEkAsDaAeE[gBs@yFmBsVcE{h@oCs]yAyRm@{Kk@yN_@mLq@kLuAmOy@gISoB_@{DRe@?A_@mFq@aJiA}L[_Dm@_J[wGSiE?{CHaBT{B|@eElGaR`B{ErCaIv@oAx@}@|@q@t@]nA_@dAMfB@hBZbBx@pAfAxInKhElFp@p@d@l@lA`BnCrD`DjDjBvA~A~@~Ar@bBh@r@PzBZnBP`E?dDY`B]fCy@pAk@vBoAbCoBtA{AhAyAtBwDxAwD|@gDh@qCf@gFLqD?qDGoB_@aFeAiLw@kJQ}GD}EZiFb@{Dt@aErCyKzLub@|Sit@zByHhA_DnByDbCmDzJsLvBqCz@{A|@qB~@mCf@}B^{BN_BhCsX|A{JnBuJ~@}DhDuLhA_D`CsF|DgJhCaGlBqDjBsCz@_AvAiAfAo@zBy@`EcA~DeApDiAtCyA|CaCzBcC`CsD`BsDpAgEhA}EhDyNnDsOdCmK|AqErBuDdC}CtAkAxCuBnJsGtFyDrDwClPiN|O}MhXgUnj@ce@f[{Wh]oY~YwVhB_BdAw@^?^UlAu@`Ao@p@QrAIzCVd@EbAk@lAbEzBnHlB`Hp@lBX`A`@`Bh@fBdCbIn@rB\\`AE^^hA`@nA|@hCz@rA|ArAtAd@dALjA?jE]tBUxCGbBDnBVdD|@pCzAVP"
       },
       "summary": "I-880 S",
       "warnings": [],
